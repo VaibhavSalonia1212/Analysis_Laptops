@@ -1,0 +1,938 @@
+"BusinessYear","StateCode","IssuerId","SourceName","VersionNum","ImportDate","IssuerId2","StateCode2","NetworkName","NetworkId","NetworkURL","RowNumber","MarketCoverage","DentalOnly"
+"2014","AK","21989","HIOS","6","2014-03-19 07:06:49","21989","AK","ODS Premier","AKN001","https://www.modahealth.com/ProviderSearch/faces/webpages/home.xhtml?dn=ods","13",,
+"2014","AK","38344","HIOS","6","2013-08-28 08:15:53","38344","AK","HeritagePlus","AKN001","https://www.premera.com/wa/visitor/","13",,
+"2014","AK","38536","HIOS","2","2013-08-01 12:48:00","38536","AK","Lincoln Dental Connect","AKN001","http://lfg.go2dental.com/member/dental_search/searchprov.cgi?P=LFGDentalConnect&Network=L","13",,
+"2014","AK","42507","HIOS","3","2013-09-02 11:39:25","42507","AK","DentalGuard Preferred","AKN001","https://www.guardiananytime.com/fpapp/FPWeb/dentalSearch.process","13",,
+"2014","AK","73836","HIOS","6","2014-04-18 11:49:29","73836","AK","Moda Plus AK Regional","AKN001","https://www.modahealth.com/ProviderSearch/faces/webpages/home.xhtml?dn=ods","13",,
+"2014","AK","73836","HIOS","6","2014-04-18 11:49:29","73836","AK","Moda Plus Providence","AKN002","https://www.modahealth.com/ProviderSearch/faces/webpages/home.xhtml?dn=ods","14",,
+"2014","AK","74819","HIOS","7","2014-01-21 08:29:49","74819","AK","DenteMax","AKN001","http://www2.dentemax.com/","13",,
+"2014","AK","84859","HIOS","1","2013-06-06 10:50:48","84859","AK","Ameritas PPO Dental Network","AKN001","www.standard.com","13",,
+"2014","AL","12538","HIOS","8","2014-01-21 08:29:49","12538","AL","DenteMax","ALN001","http://www2.dentemax.com/","13",,
+"2014","AL","12538","HIOS","8","2014-01-21 08:29:49","12538","AL","CONNECTION Dental through PPO USA","ALN002","http://www.ppousa.com/patients/index.html","14",,
+"2014","AL","17540","HIOS","3","2013-09-02 11:39:25","17540","AL","DentalGuard Preferred","ALN001","https://www.guardiananytime.com/fpapp/FPWeb/dentalSearch.process","13",,
+"2014","AL","44580","HIOS","10","2014-01-21 08:29:49","44580","AL","Birmingham PPOx","ALN001","http://pfp.humana.com/Pfp/PfpMain.aspx?cust=1059&pfpkey=808","13",,
+"2014","AL","44580","HIOS","10","2014-01-21 08:29:49","44580","AL","Huntsville PPOx","ALN002","http://pfp.humana.com/Pfp/PfpMain.aspx?cust=1059&pfpkey=809","14",,
+"2014","AL","44580","HIOS","10","2014-01-21 08:29:49","44580","AL","Humana Dental PPO Traditional Preferred","ALN003","https://www.humana.com/finder/search?customerID=1085&pfpkey=317","15",,
+"2014","AL","44785","HIOS","4","2013-09-10 14:43:20","44785","AL","Advantage Plus","ALN001","https://secure.ucci.com/tp2fad/?network=074","13",,
+"2014","AL","46211","HIOS","1","2013-06-06 10:50:48","46211","AL","Lincoln Dental Connect","ALN001","http://lfg.go2dental.com/member/dental_search/searchprov.cgi?P=LFGDentalConnect&Network=L","13",,
+"2014","AL","46944","HIOS","7","2014-01-17 09:36:20","46944","AL","BCBSAL PPO","ALN001","https://www.bcbsal.org/doctorfinder?frm=Exchange","13",,
+"2014","AL","59809","HIOS","8","2014-01-16 07:24:04","59809","AL","Choice Plus","ALN001","http://www.providerlookuponline.com/uhc/po7/gateway.aspx?delsys=05","13",,
+"2014","AL","59809","HIOS","8","2014-01-16 07:24:04","59809","AL","Choice Plus","ALN002","http://www.providerlookuponline.com/uhc/po7/gateway.aspx?delsys=05","14",,
+"2014","AL","77233","HIOS","6","2014-01-17 09:36:20","77233","AL","Dentegra Dental PPO","ALN001","http://www.dentegra.com/find-a-dentist","13",,
+"2014","AL","82285","HIOS","7","2014-01-21 08:29:49","82285","AL","Delta Dental PPO","ALN001","http://www.deltadentalins.com/find-a-dentist/","13",,
+"2014","AZ","17100","HIOS","7","2013-10-15 07:27:56","17100","AZ","EHB Basic Dental Plan (Low)","AZN001","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_AZ&planType=DPPO&networkID=2","13",,
+"2014","AZ","17100","HIOS","7","2013-10-15 07:27:56","17100","AZ","EHB Enhanced Dental Plan (High)","AZN002","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_AZ&planType=DPPO&networkID=2","14",,
+"2014","AZ","17100","HIOS","7","2013-10-15 07:27:56","17100","AZ","Family Basic Dental Plan (Low)","AZN003","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_AZ&planType=DPPO&networkID=2","15",,
+"2014","AZ","17100","HIOS","7","2013-10-15 07:27:56","17100","AZ","Family Enhanced Dental Plan (High)","AZN004","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_AZ&planType=DPPO&networkID=2","16",,
+"2014","AZ","18156","HIOS","1","2013-06-06 10:50:48","18156","AZ","Lincoln Dental Connect","AZN001","http://lfg.go2dental.com/member/dental_search/searchprov.cgi?P=LFGDentalConnect&Network=L","13",,
+"2014","AZ","23307","HIOS","8","2014-01-16 07:24:04","23307","AZ","Phoenix HMOx","AZN001","http://pfp.humana.com/Pfp/PfpMain.aspx?cust=1059&pfpkey=762","13",,
+"2014","AZ","23307","HIOS","8","2014-01-16 07:24:04","23307","AZ","Tucson HMOx","AZN002","http://pfp.humana.com/Pfp/PfpMain.aspx?cust=1059&pfpkey=801","14",,
+"2014","AZ","30045","HIOS","5","2014-03-19 07:06:49","30045","AZ","Delta Dental PPO","AZN001","http://www.deltadental.com/DentistSearch/DentistSearchController.ccl?ViewProduct=B20","13",,
+"2014","AZ","30045","HIOS","5","2014-03-19 07:06:49","30045","AZ","Delta Dental PPO plus Premier","AZN002","http://www.deltadental.com/DentistSearch/DentistSearchController.ccl?ViewProduct=B01","14",,
+"2014","AZ","30045","HIOS","5","2014-03-19 07:06:49","30045","AZ","Delta Dental Premier","AZN003","http://www.deltadental.com/DentistSearch/DentistSearchController.ccl?ViewProduct=B01","15",,
+"2014","AZ","33851","HIOS","5","2013-09-16 06:33:22","33851","AZ","Premier Access Dental","AZN001","www.premierlife.com/providersearch","13",,
+"2014","AZ","51485","HIOS","13","2014-03-19 07:06:49","51485","AZ","AZ PPO","AZN001","https://www.healthnet.com/portal/providerSearch.action","13",,
+"2014","AZ","52147","HIOS","2","2013-07-01 08:34:30","52147","AZ","Ameritas PPO Dental Network","AZN001","www.standard.com","13",,
+"2014","AZ","53901","HIOS","7","2014-01-16 07:24:04","53901","AZ","Statewide PPO","AZN001","www.azblue.com/PPO","13",,
+"2014","AZ","53901","HIOS","7","2014-01-16 07:24:04","53901","AZ","Alliance","AZN002","www.azblue.com/Alliance","14",,
+"2014","AZ","53901","HIOS","7","2014-01-16 07:24:04","53901","AZ","Select","AZN003","www.azblue.com/Select","15",,
+"2014","AZ","58292","HIOS","7","2014-01-17 09:36:20","58292","AZ","Dentegra Dental PPO","AZN001","http://www.dentegra.com/find-a-dentist","13",,
+"2014","AZ","60761","HIOS","5","2013-11-23 14:44:18","60761","AZ","Meritus HMO Network","AZN001","http://www.meritusaz.com/hmo-provider-search1.html","13",,
+"2014","AZ","60761","HIOS","5","2013-11-23 14:44:18","60761","AZ","Meritus Neighborhood Network Maricopa","AZN002","http://www.meritusaz.com/provider-search1.html","14",,
+"2014","AZ","60761","HIOS","5","2013-11-23 14:44:18","60761","AZ","Meritus Community Network Phoenix","AZN003","http://www.meritusaz.com/provider-search1.html","15",,
+"2014","AZ","60761","HIOS","5","2013-11-23 14:44:18","60761","AZ","Meritus Community Network Pima","AZN004","http://www.meritusaz.com/provider-search1.html","16",,
+"2014","AZ","66105","HIOS","6","2014-03-19 07:06:49","66105","AZ","Humana Dental PPO/Traditional Preferred","AZN001","https://www.humana.com/finder/search?customerID=1085&pfpkey=317","13",,
+"2014","AZ","70239","HIOS","10","2014-01-17 09:36:20","70239","AZ","Health Choice Essential","AZN001","http://www.healthchoiceessential.com/members/FindProvider.aspx","13",,
+"2014","AZ","77352","HIOS","7","2014-01-21 08:29:49","77352","AZ","DenteMax","AZN001","http://www2.dentemax.com/","13",,
+"2014","AZ","77352","HIOS","7","2014-01-21 08:29:49","77352","AZ","Total Dental Administrators (TDA)","AZN002","http://www.totaldentaladmin.com/","14",,
+"2014","AZ","84251","HIOS","7","2013-09-17 16:07:07","84251","AZ","QHP PPO_OAMC_Arizona","AZN001","http://www.aetna.com/individuals-families-health-insurance/buy-insurance/exchange/az.html","13",,
+"2014","AZ","86830","HIOS","12","2013-10-15 07:27:56","86830","AZ","Arizona Local Plus","AZN001","www.Cigna.com/ifp-providers","13",,
+"2014","AZ","88925","HIOS","5","2014-01-17 09:36:20","88925","AZ","UHM Primary","AZN001","http://uamarketplace.com/providerlookup.aspx","13",,
+"2014","AZ","88925","HIOS","5","2014-01-17 09:36:20","88925","AZ","MIHS Limited","AZN002","http://uamarketplace.com/providerlookup.aspx","14",,
+"2014","AZ","88925","HIOS","5","2014-01-17 09:36:20","88925","AZ","Apache","AZN003","http://uamarketplace.com/providerlookup.aspx","15",,
+"2014","AZ","88925","HIOS","5","2014-01-17 09:36:20","88925","AZ","Cochise","AZN004","http://uamarketplace.com/providerlookup.aspx","16",,
+"2014","AZ","88925","HIOS","5","2014-01-17 09:36:20","88925","AZ","Coconino","AZN005","http://uamarketplace.com/providerlookup.aspx","17",,
+"2014","AZ","88925","HIOS","5","2014-01-17 09:36:20","88925","AZ","Gila","AZN006","http://uamarketplace.com/providerlookup.aspx","18",,
+"2014","AZ","88925","HIOS","5","2014-01-17 09:36:20","88925","AZ","Greenlee","AZN007","http://uamarketplace.com/providerlookup.aspx","19",,
+"2014","AZ","88925","HIOS","5","2014-01-17 09:36:20","88925","AZ","Graham","AZN008","http://uamarketplace.com/providerlookup.aspx","20",,
+"2014","AZ","88925","HIOS","5","2014-01-17 09:36:20","88925","AZ","La Paz","AZN009","http://uamarketplace.com/providerlookup.aspx","21",,
+"2014","AZ","88925","HIOS","5","2014-01-17 09:36:20","88925","AZ","Maricopa","AZN010","http://uamarketplace.com/providerlookup.aspx","22",,
+"2014","AZ","88925","HIOS","5","2014-01-17 09:36:20","88925","AZ","Mohave","AZN011","http://uamarketplace.com/providerlookup.aspx","23",,
+"2014","AZ","88925","HIOS","5","2014-01-17 09:36:20","88925","AZ","Navajo","AZN012","http://uamarketplace.com/providerlookup.aspx","24",,
+"2014","AZ","88925","HIOS","5","2014-01-17 09:36:20","88925","AZ","Pima","AZN013","http://uamarketplace.com/providerlookup.aspx","25",,
+"2014","AZ","88925","HIOS","5","2014-01-17 09:36:20","88925","AZ","Pinal","AZN014","http://uamarketplace.com/providerlookup.aspx","26",,
+"2014","AZ","88925","HIOS","5","2014-01-17 09:36:20","88925","AZ","Santa Cruz","AZN015","http://uamarketplace.com/providerlookup.aspx","27",,
+"2014","AZ","88925","HIOS","5","2014-01-17 09:36:20","88925","AZ","Yavapai","AZN016","http://uamarketplace.com/providerlookup.aspx","28",,
+"2014","AZ","88925","HIOS","5","2014-01-17 09:36:20","88925","AZ","Yuma","AZN017","http://uamarketplace.com/providerlookup.aspx","29",,
+"2014","AZ","88925","HIOS","5","2014-01-17 09:36:20","88925","AZ","GSA10","AZN018","http://uamarketplace.com/providerlookup.aspx","30",,
+"2014","AZ","88925","HIOS","5","2014-01-17 09:36:20","88925","AZ","GSA2","AZN019","http://uamarketplace.com/providerlookup.aspx","31",,
+"2014","AZ","88925","HIOS","5","2014-01-17 09:36:20","88925","AZ","GSA8","AZN020","http://uamarketplace.com/providerlookup.aspx","32",,
+"2014","AZ","88925","HIOS","5","2014-01-17 09:36:20","88925","AZ","GSA14","AZN021","http://uamarketplace.com/providerlookup.aspx","33",,
+"2014","AZ","90264","HIOS","2","2013-07-01 08:34:30","90264","AZ","Ameritas PPO Dental Network","AZN001","www.ameritasgroup.com","13",,
+"2014","AZ","91450","HIOS","9","2014-01-21 08:29:49","91450","AZ","AZ HMO CommunityCare Network","AZN001","https://www.healthnet.com/portal/providerSearch.action","13",,
+"2014","AZ","91450","HIOS","9","2014-01-21 08:29:49","91450","AZ","AZ HMO","AZN002","https://www.healthnet.com/portal/providerSearch.action","14",,
+"2014","AZ","91450","HIOS","9","2014-01-21 08:29:49","91450","AZ","AZ HMO ExcelCare Network","AZN003","https://www.healthnet.com/portal/providerSearch.action","15",,
+"2014","AZ","92045","HIOS","6","2013-11-23 14:44:18","92045","AZ","Meritus PPO Network","AZN001","https://www.azfmc.com/meritussearch","13",,
+"2014","AZ","99180","HIOS","7","2013-09-12 11:27:35","99180","AZ","Advantage Plus","AZN001","https://secure.ucci.com/tp2fad/?network=074","13",,
+"2014","FL","15980","HIOS","5","2014-01-16 07:24:04","15980","FL","Humana Dental PPO/Traditional Preferred","FLN001","https://www.humana.com/finder/search?customerID=1085&pfpkey=317","13",,
+"2014","FL","16842","HIOS","6","2014-01-17 09:36:20","16842","FL","NetworkBlue","FLN001","http://opd.bcbsfl.com","13",,
+"2014","FL","16842","HIOS","6","2014-01-17 09:36:20","16842","FL","BlueSelect","FLN002","http://opd.bcbsfl.com","14",,
+"2014","FL","23841","HIOS","6","2013-11-26 13:14:08","23841","FL","QHP PPO_OAMC_Florida","FLN001","http://www.aetna.com/individuals-families-health-insurance/buy-insurance/exchange/fl.html","13",,
+"2014","FL","27357","HIOS","8","2014-03-19 07:06:49","27357","FL","Health First Health Plans","FLN001","www.healthfirsthealthplans.org","13",,
+"2014","FL","30115","HIOS","7","2013-09-19 06:29:55","30115","FL","Blue Dental Choice","FLN001","http://floridabluedental.com/find-a-dentist.aspx","13",,
+"2014","FL","30219","HIOS","6","2013-10-15 07:27:56","30219","FL","EHB Basic Dental Plan (Low)","FLN001","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_FL&planType=DUAL&custNum=0383201&networkID=2","13",,
+"2014","FL","30219","HIOS","6","2013-10-15 07:27:56","30219","FL","EHB Enhanced Dental Plan (High)","FLN002","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_FL&planType=DUAL&custNum=0383201&networkID=2","14",,
+"2014","FL","30219","HIOS","6","2013-10-15 07:27:56","30219","FL","Family Basic Dental Plan (Low)","FLN003","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_FL&planType=DUAL&custNum=0383201&networkID=2","15",,
+"2014","FL","30219","HIOS","6","2013-10-15 07:27:56","30219","FL","Family Enhanced Dental Plan (High)","FLN004","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_FL&planType=DUAL&custNum=0383201&networkID=2","16",,
+"2014","FL","30252","HIOS","8","2014-01-17 09:36:20","30252","FL","BlueCare","FLN001","http://opd.bcbsfl.com","13",,
+"2014","FL","35783","HIOS","5","2014-03-19 07:06:49","35783","FL","HMO Premier","FLN001","http://pfp.humana.com/Pfp/PfpMain.aspx?cust=1059&pfpkey=347","13",,
+"2014","FL","35783","HIOS","5","2014-03-19 07:06:49","35783","FL","South Florida HUMx HMOx","FLN002","http://pfp.humana.com/Pfp/PfpMain.aspx?cust=1059&pfpkey=798","14",,
+"2014","FL","35783","HIOS","5","2014-03-19 07:06:49","35783","FL","Tampa Bay HUMx HMOx","FLN003","http://pfp.humana.com/Pfp/PfpMain.aspx?cust=1059&pfpkey=799","15",,
+"2014","FL","43274","HIOS","3","2013-09-17 16:07:07","43274","FL","EssentialSmile PPO","FLN001","www.Solsticecare.com/provider-search.aspx","13",,
+"2014","FL","48121","HIOS","12","2013-10-15 07:27:56","48121","FL","Florida LocalPlus Network","FLN001","www.Cigna.com/ifp-providers","13",,
+"2014","FL","48129","HIOS","8","2013-11-26 13:14:08","48129","FL","Renaissance Dental","FLN001","www.renaissancedental.com/Find-a-Dentist","13",,
+"2014","FL","48129","HIOS","8","2013-11-26 13:14:08","48129","FL","Delta Dental","FLN002","http://www.deltadental.com/DentistSearch/DentistSearchController.ccl","14",,
+"2014","FL","49193","HIOS","4","2013-09-10 14:43:20","49193","FL","Advantage Plus","FLN001","https://secure.ucci.com/tp2fad/?network=074","13",,
+"2014","FL","51398","HIOS","5","2014-01-21 08:29:49","51398","FL","Miami Dade A","FLN001","http://www.pmpmarketplace.com/plans/providers.pdf","13",,
+"2014","FL","51398","HIOS","5","2014-01-21 08:29:49","51398","FL","Miami Dade B","FLN002","http://www.pmpmarketplace.com/plans/providers.pdf","14",,
+"2014","FL","51398","HIOS","5","2014-01-21 08:29:49","51398","FL","Broward","FLN003","http://www.pmpmarketplace.com/plans/51398FL0650001/providers.pdf","15",,
+"2014","FL","54172","HIOS","6","2013-10-15 07:27:56","54172","FL","Molina Marketplace","FLN001","http://www.molinahealthcare.com/providersearch","13",,
+"2014","FL","56503","HIOS","6","2014-03-19 07:06:49","56503","FL","FHCP HMO Network","FLN001","http://www.fhcp.com/individual-plans/","13",,
+"2014","FL","56503","HIOS","6","2014-03-19 07:06:49","56503","FL","FHCP Partners In Care Network","FLN002","http://www.fhcp.com/individual-plans/","14",,
+"2014","FL","57451","HIOS","4","2013-10-15 07:27:56","57451","FL","Carelink from CoventryOne","FLN001","http://fl.coventryproviders.com","13",,
+"2014","FL","57451","HIOS","4","2013-10-15 07:27:56","57451","FL","CoventryOne Exchange HMO","FLN002","http://fl.coventryproviders.com","14",,
+"2014","FL","59667","HIOS","5","2013-08-30 07:44:10","59667","FL","DentaQuest of Florida Inc","FLN001","www.dentaquest.com","13",,
+"2014","FL","77150","HIOS","9","2014-03-19 07:06:49","77150","FL","Health First Insurance","FLN001","www.healthfirstinsurance.org","13",,
+"2014","FL","85543","HIOS","3","2013-08-30 07:44:10","85543","FL","Lincoln Dental Connect","FLN001","http://lfg.go2dental.com/member/dental_search/searchprov.cgi?P=LFGDentalConnect&Network=L","13",,
+"2014","FL","86382","HIOS","4","2013-08-30 07:44:10","86382","FL","Ambetter from Sunshine Health","FLN001","http://ambetter.sunshinehealth.com/findadoc","13",,
+"2014","FL","97725","HIOS","6","2014-01-21 08:29:49","97725","FL","Delta Dental PPO","FLN001","http://www.deltadentalins.com/find-a-dentist/","13",,
+"2014","FL","97725","HIOS","6","2014-01-21 08:29:49","97725","FL","DeltaCare USA DHMO","FLN002","http://www.deltadentalins.com/find-a-dentist/","14",,
+"2014","FL","98534","HIOS","6","2013-10-15 07:27:56","98534","FL","EHB Basic Dental Plan (Low)","FLN001","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_FL&planType=DUAL&custNum=0383201&networkID=2","13",,
+"2014","FL","98534","HIOS","6","2013-10-15 07:27:56","98534","FL","EHB Enhanced Dental Plan (High)","FLN002","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_FL&planType=DUAL&custNum=0383201&networkID=2","14",,
+"2014","FL","98534","HIOS","6","2013-10-15 07:27:56","98534","FL","Family Basic Dental Plan (Low)","FLN003","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_FL&planType=DUAL&custNum=0383201&networkID=2","15",,
+"2014","FL","98534","HIOS","6","2013-10-15 07:27:56","98534","FL","Family Enhanced Dental Plan (High)","FLN004","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_FL&planType=DUAL&custNum=0383201&networkID=2","16",,
+"2014","FL","99787","HIOS","6","2014-01-17 09:36:20","99787","FL","Dentegra Dental PPO","FLN001","http://www.dentegra.com/find-a-dentist","13",,
+"2014","GA","28167","HIOS","6","2014-01-17 09:36:20","28167","GA","Dentegra Dental PPO","GAN001","http://www.dentegra.com/find-a-dentist","13",,
+"2014","GA","37001","HIOS","9","2014-03-19 07:06:49","37001","GA","National POS Open Access","GAN001","http://pfp.humana.com/Pfp/PfpMain.aspx?cust=1059&pfpkey=319","13",,
+"2014","GA","37001","HIOS","9","2014-03-19 07:06:49","37001","GA","Humana Dental PPO Traditional Preferred","GAN002","https://www.humana.com/finder/search?customerID=1085&pfpkey=317","14",,
+"2014","GA","45495","HIOS","4","2013-08-30 07:44:10","45495","GA","Ambetter from Peach State Health Plan","GAN001","http://ambetter.pshpgeorgia.com/findadoc","13",,
+"2014","GA","49046","HIOS","8","2014-01-16 07:24:04","49046","GA","Pathway X","GAN001","https://www.bcbsga.com/health-insurance/provider-directory/searchcriteria?brand=bcbsga","13",,
+"2014","GA","49046","HIOS","8","2014-01-16 07:24:04","49046","GA","Pathway X (with dental)","GAN002","https://www.bcbsga.com/health-insurance/provider-directory/searchcriteria?brand=bcbsga","14",,
+"2014","GA","50491","HIOS","1","2013-06-06 10:50:48","50491","GA","GA PPO","GAN001","cigna.benefitnation.net/Cignadol/default.asp?employer=ISG-01&","13",,
+"2014","GA","50662","HIOS","1","2013-06-06 10:50:48","50662","GA","Lincoln Dental Connect","GAN001","http://lfg.go2dental.com/member/dental_search/searchprov.cgi?P=LFGDentalConnect&Network=L","13",,
+"2014","GA","50988","HIOS","5","2013-09-12 11:27:35","50988","GA","Advantage Plus","GAN001","https://secure.ucci.com/tp2fad/?network=074","13",,
+"2014","GA","55612","HIOS","5","2013-10-16 16:52:58","55612","GA","EHB Basic Dental Plan (Low)","GAN001","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_GA&planType=DPPO&networkID=2","13",,
+"2014","GA","55612","HIOS","5","2013-10-16 16:52:58","55612","GA","EHB Enhanced Dental Plan (High)","GAN002","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_GA&planType=DPPO&networkID=2","14",,
+"2014","GA","55612","HIOS","5","2013-10-16 16:52:58","55612","GA","Family Basic Dental Plan (Low)","GAN003","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_GA&planType=DPPO&networkID=2","15",,
+"2014","GA","55612","HIOS","5","2013-10-16 16:52:58","55612","GA","Family Enhanced Dental Plan (High)","GAN004","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_GA&planType=DPPO&networkID=2","16",,
+"2014","GA","63411","HIOS","7","2014-05-02 13:10:05","63411","GA","Dental Prime","GAN001","www.bcbsga.com","13",,
+"2014","GA","63940","HIOS","4","2013-09-02 11:39:25","63940","GA","DentalGuard Preferred","GAN001","https://www.guardiananytime.com/fpapp/FPWeb/dentalSearch.process","13",,
+"2014","GA","73231","HIOS","6","2013-11-26 13:14:08","73231","GA","Renaissance Dental","GAN001","www.renaissancedental.com/Find-a-Dentist","13",,
+"2014","GA","73231","HIOS","6","2013-11-26 13:14:08","73231","GA","Delta Dental","GAN002","http://www.deltadental.com/DentistSearch/DentistSearchController.ccl","14",,
+"2014","GA","83502","HIOS","8","2014-01-21 08:29:49","83502","GA","DenteMax","GAN001","http://www2.dentemax.com/","13",,
+"2014","GA","83761","HIOS","10","2014-03-19 07:06:49","83761","GA","FFE and SHOP","GAN001","www.AHPAssist.com","13",,
+"2014","GA","86637","HIOS","6","2014-01-21 08:29:49","86637","GA","Delta Dental PPO","GAN001","http://www.deltadentalins.com/find-a-dentist/","13",,
+"2014","GA","89942","HIOS","7","2014-01-17 09:36:20","89942","GA","Kaiser Permanente HMO","GAN001","https://healthy.kaiserpermanente.org/health/care/consumer/locate-our-services/doctors-and-locations","13",,
+"2014","GA","93332","HIOS","8","2014-01-16 07:24:04","93332","GA","Atlanta HMOx","GAN001","http://pfp.humana.com/Pfp/PfpMain.aspx?cust=1059&pfpkey=804","13",,
+"2014","GA","93332","HIOS","8","2014-01-16 07:24:04","93332","GA","Columbus GA HMOx","GAN002","http://pfp.humana.com/Pfp/PfpMain.aspx?cust=1059&pfpkey=758","14",,
+"2014","GA","93332","HIOS","8","2014-01-16 07:24:04","93332","GA","Savannah HMOx","GAN003","http://pfp.humana.com/Pfp/PfpMain.aspx?cust=1059&pfpkey=805","15",,
+"2014","GA","93332","HIOS","8","2014-01-16 07:24:04","93332","GA","National POS Open Access","GAN004","http://pfp.humana.com/Pfp/PfpMain.aspx?cust=1059&pfpkey=319","16",,
+"2014","IL","83350","HIOS","3","2013-10-16 16:52:58","83350","IL","EHB Basic Dental Plan (Low)","ILN001","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_IL&planType=DPPO&networkID=2","13",,
+"2014","IL","83350","HIOS","3","2013-10-16 16:52:58","83350","IL","EHB Enhanced Dental Plan (High)","ILN002","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_IL&planType=DPPO&networkID=2","14",,
+"2014","IL","83350","HIOS","3","2013-10-16 16:52:58","83350","IL","Family Basic Dental Plan (Low)","ILN003","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_IL&planType=DPPO&networkID=2","15",,
+"2014","IL","83350","HIOS","3","2013-10-16 16:52:58","83350","IL","Family Enhanced Dental Plan (High)","ILN004","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_IL&planType=DPPO&networkID=2","16",,
+"2014","IN","17575","HIOS","12","2014-03-19 07:06:49","17575","IN","[Indiana Individual On Exchange Network] Pathway X HMO POS","INN001","https://www.anthem.com/health-insurance/provider-directory/searchcriteria?brand=abcbs","13",,
+"2014","IN","17575","HIOS","12","2014-03-19 07:06:49","17575","IN","[Indiana Individual On Exchange Network] Pathway X HMO POS (with dental)","INN002","https://www.anthem.com/health-insurance/provider-directory/searchcriteria?brand=abcbs","14",,
+"2014","IN","17575","HIOS","12","2014-03-19 07:06:49","17575","IN","[Indiana Small Group On Exchange Network] Blue Preferred HMO POS","INN003","https://www.anthem.com/health-insurance/provider-directory/searchcriteria?brand=abcbs","15",,
+"2014","IN","17575","HIOS","12","2014-03-19 07:06:49","17575","IN","[Indiana Individual Off Exchange Network] Pathway HMO POS","INN004","https://www.anthem.com/health-insurance/provider-directory/searchcriteria?brand=abcbs","16",,
+"2014","IN","17575","HIOS","12","2014-03-19 07:06:49","17575","IN","[Indiana Small Group Off Exchange Network] Blue Preferred HMO POS","INN005","https://www.anthem.com/health-insurance/provider-directory/searchcriteria?brand=abcbs","17",,
+"2014","IN","17575","HIOS","12","2014-03-19 07:06:49","17575","IN","Dental Prime","INN006","www.anthem.com","18",,
+"2014","IN","35065","HIOS","4","2013-08-30 07:44:10","35065","IN","Ambetter from MHS","INN001","http://ambetter.mhsindiana.com/findadoc","13",,
+"2014","IN","43499","HIOS","1","2013-06-28 08:36:25","43499","IN","Dentemax","INN001","http://www2.dentemax.com/Members/FindADentist.aspx","13",,
+"2014","IN","50816","HIOS","9","2013-11-26 13:14:08","50816","IN","PHP Premier","INN001","http://www.phpni.com/marketplace/providerdirectory","13",,
+"2014","IN","50816","HIOS","9","2013-11-26 13:14:08","50816","IN","PHP Select","INN002","http://www.phpni.com/marketplace/providerdirectory","14",,
+"2014","IN","50816","HIOS","9","2013-11-26 13:14:08","50816","IN","PHP Dental","INN003","http://www.phpni.com/marketplace/providerdirectory","15",,
+"2014","IN","56340","HIOS","2","2013-07-31 07:05:07","56340","IN","Lincoln Dental Connect","INN001","http://lfg.go2dental.com/member/dental_search/searchprov.cgi?P=LFGDentalConnect&Network=L","13",,
+"2014","IN","59560","HIOS","4","2013-09-02 11:39:25","59560","IN","DentalGuard Preferred","INN001","https://www.guardiananytime.com/fpapp/FPWeb/dentalSearch.process","13",,
+"2014","IN","69051","HIOS","2","2013-07-23 22:50:01","69051","IN","EHB Basic Dental Plan (Low)","INN001","https://www.metlife.com/dental","13",,
+"2014","IN","69051","HIOS","2","2013-07-23 22:50:01","69051","IN","EHB Enhanced Dental Plan (High)","INN002","https://www.metlife.com/dental","14",,
+"2014","IN","69051","HIOS","2","2013-07-23 22:50:01","69051","IN","Family Basic Dental Plan (Low)","INN003","https://www.metlife.com/dental","15",,
+"2014","IN","69051","HIOS","2","2013-07-23 22:50:01","69051","IN","Family Enhanced Dental Plan (High)","INN004","https://www.metlife.com/dental","16",,
+"2014","IN","83557","HIOS","8","2014-01-21 08:29:49","83557","IN","DenteMax","INN001","http://www2.dentemax.com/","13",,
+"2014","IN","83557","HIOS","8","2014-01-21 08:29:49","83557","IN","Maverest Dental Alliance","INN002","http://www.maverest.com/","14",,
+"2014","IN","85320","HIOS","7","2014-01-21 08:29:49","85320","IN","MDwise","INN001","mdwise.org/marketplace/findadoctor","13",,
+"2014","IN","85320","HIOS","7","2014-01-21 08:29:49","85320","IN","MDwise","INN002","mdwise.org/marketplace/findadoctor","14",,
+"2014","IN","85320","HIOS","7","2014-01-21 08:29:49","85320","IN","MDwise","INN003","mdwise.org/marketplace/findadoctor","15",,
+"2014","IN","85320","HIOS","7","2014-01-21 08:29:49","85320","IN","MDwise","INN004","mdwise.org/marketplace/findadoctor","16",,
+"2014","IN","85320","HIOS","7","2014-01-21 08:29:49","85320","IN","MDwise","INN005","mdwise.org/marketplace/findadoctor","17",,
+"2014","IN","85320","HIOS","7","2014-01-21 08:29:49","85320","IN","MDwise","INN006","mdwise.org/marketplace/findadoctor","18",,
+"2014","IN","85320","HIOS","7","2014-01-21 08:29:49","85320","IN","MDwise","INN007","mdwise.org/marketplace/findadoctor","19",,
+"2014","IN","85320","HIOS","7","2014-01-21 08:29:49","85320","IN","MDwise","INN008","mdwise.org/marketplace/findadoctor","20",,
+"2014","IN","85320","HIOS","7","2014-01-21 08:29:49","85320","IN","MDwise","INN009","mdwise.org/marketplace/findadoctor","21",,
+"2014","IN","85320","HIOS","7","2014-01-21 08:29:49","85320","IN","MDwise","INN010","mdwise.org/marketplace/findadoctor","22",,
+"2014","IN","85320","HIOS","7","2014-01-21 08:29:49","85320","IN","MDwise","INN011","mdwise.org/marketplace/findadoctor","23",,
+"2014","IN","85320","HIOS","7","2014-01-21 08:29:49","85320","IN","MDwise","INN012","mdwise.org/marketplace/findadoctor","24",,
+"2014","IN","85320","HIOS","7","2014-01-21 08:29:49","85320","IN","MDwise","INN013","mdwise.org/marketplace/findadoctor","25",,
+"2014","IN","85320","HIOS","7","2014-01-21 08:29:49","85320","IN","MDwise","INN014","mdwise.org/marketplace/findadoctor","26",,
+"2014","IN","85320","HIOS","7","2014-01-21 08:29:49","85320","IN","MDwise","INN015","mdwise.org/marketplace/findadoctor","27",,
+"2014","IN","85320","HIOS","7","2014-01-21 08:29:49","85320","IN","MDwise","INN016","mdwise.org/marketplace/findadoctor","28",,
+"2014","IN","85320","HIOS","7","2014-01-21 08:29:49","85320","IN","MDwise","INN017","mdwise.org/marketplace/findadoctor","29",,
+"2014","IN","85320","HIOS","7","2014-01-21 08:29:49","85320","IN","MDwise","INN018","mdwise.org/marketplace/findadoctor","30",,
+"2014","IN","85320","HIOS","7","2014-01-21 08:29:49","85320","IN","MDwise","INN019","mdwise.org/marketplace/findadoctor","31",,
+"2014","IN","85320","HIOS","7","2014-01-21 08:29:49","85320","IN","MDwise","INN020","mdwise.org/marketplace/findadoctor","32",,
+"2014","IN","85320","HIOS","7","2014-01-21 08:29:49","85320","IN","MDwise","INN021","mdwise.org/marketplace/findadoctor","33",,
+"2014","IN","85320","HIOS","7","2014-01-21 08:29:49","85320","IN","MDwise","INN022","mdwise.org/marketplace/findadoctor","34",,
+"2014","IN","85320","HIOS","7","2014-01-21 08:29:49","85320","IN","MDwise","INN023","mdwise.org/marketplace/findadoctor","35",,
+"2014","IN","91920","HIOS","6","2014-01-17 09:36:20","91920","IN","Dentegra Dental PPO","INN001","http://www.dentegra.com/find-a-dentist","13",,
+"2014","LA","18575","HIOS","4","2014-01-21 08:29:49","18575","LA","ACB","LAN001","http://www.alwayscarebenefits.com/comm/providers/LADentalProviderDirectory.pdf","13",,
+"2014","LA","18802","HIOS","8","2014-01-21 08:29:49","18802","LA","Delta Dental PPO","LAN001","http://www.deltadentalins.com/find-a-dentist/","13",,
+"2014","LA","19636","HIOS","8","2014-01-21 08:29:49","19636","LA","HMO Louisiana HMOPOS Vision Dental","LAN005","http://www.bcbsla.com/hmopos-medical-vision-dental","13",,
+"2014","LA","19636","HIOS","8","2014-01-21 08:29:49","19636","LA","Blue Connect Vision Dental","LAN006","http://www.bcbsla.com/blueconnect-medical-vision-dental","14",,
+"2014","LA","19636","HIOS","8","2014-01-21 08:29:49","19636","LA","Community Blue Vision Dental","LAN007","http://www.bcbsla.com/communityblue-medical-vision-dental","15",,
+"2014","LA","42544","HIOS","5","2014-01-17 09:36:20","42544","LA","Dentegra Dental PPO","LAN001","http://www.dentegra.com/find-a-dentist","13",,
+"2014","LA","44965","HIOS","8","2014-01-21 08:29:49","44965","LA","New Olreans HMOx","LAN001","http://pfp.humana.com/Pfp/PfpMain.aspx?cust=1059&pfpkey=802","13",,
+"2014","LA","44965","HIOS","8","2014-01-21 08:29:49","44965","LA","Humana ChoiceCare Network PPO","LAN002","http://pfp.humana.com/Pfp/PfpMain.aspx?cust=1059&pfpkey=124","14",,
+"2014","LA","44965","HIOS","8","2014-01-21 08:29:49","44965","LA","Humana Dental PPO Traditional Preferred","LAN003","https://www.humana.com/finder/search?customerID=1085&pfpkey=317","15",,
+"2014","LA","67202","HIOS","9","2014-01-15 07:08:32","67202","LA","POS Network","LAN005","http://www.mylahc.org/members","13",,
+"2014","LA","67202","HIOS","9","2014-01-15 07:08:32","67202","LA","HMO New Orleans Area","LAN001","http://www.mylahc.org/members","14",,
+"2014","LA","67202","HIOS","9","2014-01-15 07:08:32","67202","LA","HMO Baton Rouge Area","LAN002","http://www.mylahc.org/members","15",,
+"2014","LA","67202","HIOS","9","2014-01-15 07:08:32","67202","LA","HMO Lafayette Area","LAN003","http://www.mylahc.org/members","16",,
+"2014","LA","67202","HIOS","9","2014-01-15 07:08:32","67202","LA","HMO Shreveport Area","LAN004","http://www.mylahc.org/members","17",,
+"2014","LA","67243","HIOS","9","2014-01-21 08:29:49","67243","LA","Vantage Tier 1 Network","LAN001","http://www.vhpla.com/marketplace/","13",,
+"2014","LA","75409","HIOS","1","2013-06-05 12:49:14","75409","LA","EHB Basic Dental Plan (Low)","LAN001","https://www.metlife.com/dental","13",,
+"2014","LA","75409","HIOS","1","2013-06-05 12:49:14","75409","LA","EHB Enhanced Dental Plan (High)","LAN002","https://www.metlife.com/dental","14",,
+"2014","LA","75409","HIOS","1","2013-06-05 12:49:14","75409","LA","Family Basic Dental Plan (Low)","LAN003","https://www.metlife.com/dental","15",,
+"2014","LA","75409","HIOS","1","2013-06-05 12:49:14","75409","LA","Family Enhanced Dental Plan (High)","LAN004","https://www.metlife.com/dental","16",,
+"2014","LA","78461","HIOS","8","2014-01-21 08:29:49","78461","LA","DenteMax","LAN001","http://www2.dentemax.com/","13",,
+"2014","LA","86868","HIOS","4","2013-08-30 07:44:10","86868","LA","Lincoln Dental Connect","LAN001","http://lfg.go2dental.com/member/dental_search/searchprov.cgi?P=LFGDentalConnect&Network=L","13",,
+"2014","LA","87390","HIOS","6","2013-09-13 08:31:59","87390","LA","DentalGuard Preferred","LAN001","https://www.guardiananytime.com/fpapp/FPWeb/dentalSearch.process","13",,
+"2014","LA","97176","HIOS","9","2014-01-21 08:29:49","97176","LA","Preferred Care PPO Vision Dental","LAN001","http://www.bcbsla.com/ppo-medical-vision-dental","13",,
+"2014","LA","97176","HIOS","9","2014-01-21 08:29:49","97176","LA","United Concordia Dental","LAN002","http://www.bcbsla.com/uc-dental","14",,
+"2014","MI","11083","HIOS","3","2013-10-16 16:52:58","11083","MI","EHB Basic Dental Plan (Low)","MIN001","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_MI&planType=DPPO&networkID=2","13",,
+"2014","MI","11083","HIOS","3","2013-10-16 16:52:58","11083","MI","EHB Enhanced Dental Plan (High)","MIN002","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_MI&planType=DPPO&networkID=2","14",,
+"2014","MI","11083","HIOS","3","2013-10-16 16:52:58","11083","MI","Family Basic Dental Plan (Low)","MIN003","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_MI&planType=DPPO&networkID=2","15",,
+"2014","MI","11083","HIOS","3","2013-10-16 16:52:58","11083","MI","Family Enhanced Dental Plan (High)","MIN004","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_MI&planType=DPPO&networkID=2","16",,
+"2014","MO","29416","HIOS","7","2014-01-21 08:29:49","29416","MO","CONNECTION Dental through PPO USA","MON001","http://www.ppousa.com/patients/index.html","13",,
+"2014","MO","29416","HIOS","7","2014-01-21 08:29:49","29416","MO","DenteMax","MON002","http://www2.dentemax.com/","14",,
+"2014","MO","30613","HIOS","5","2014-01-16 07:24:04","30613","MO","Humana Dental PPO/Traditional Preferred","MON001","https://www.humana.com/finder/search?customerID=1085&pfpkey=317","13",,
+"2014","MO","32753","HIOS","16","2014-03-19 07:06:49","32753","MO","Pathway X","MON001","https://www.anthem.com/health-insurance/provider-directory/searchcriteria?brand=abcbs","13",,
+"2014","MO","32753","HIOS","16","2014-03-19 07:06:49","32753","MO","Blue Preferred","MON002","https://www.anthem.com/health-insurance/provider-directory/searchcriteria?brand=abcbs","14",,
+"2014","MO","32753","HIOS","16","2014-03-19 07:06:49","32753","MO","Pathway X (with dental)","MON003","https://www.anthem.com/health-insurance/provider-directory/searchcriteria?brand=abcbs","15",,
+"2014","MO","32753","HIOS","16","2014-03-19 07:06:49","32753","MO","Blue Preferred (with dental)","MON004","https://www.anthem.com/health-insurance/provider-directory/searchcriteria?brand=abcbs","16",,
+"2014","MO","32753","HIOS","16","2014-03-19 07:06:49","32753","MO","Dental Prime","MON005","www.anthem.com","17",,
+"2014","MO","32904","HIOS","2","2013-07-01 22:22:31","32904","MO","Advantica Dental Benefits Inc.","MON001","www.advanticabenefits.com","13",,
+"2014","MO","34762","HIOS","6","2014-01-16 07:24:04","34762","MO","Preferred Care Blue","MON001","http://www.bluekc.com/ExchangeNetwork","13",,
+"2014","MO","34762","HIOS","6","2014-01-16 07:24:04","34762","MO","BlueSelect","MON002","http://www.bluekc.com/ExchangeNetwork","14",,
+"2014","MO","39371","HIOS","5","2013-09-11 07:49:18","39371","MO","First Commonwealth","MON001","https://www.guardiananytime.com/fpapp/FPWeb/dentalSearch.process","13",,
+"2014","MO","40807","HIOS","6","2013-11-26 13:14:08","40807","MO","Delta Dental Premier","MON001","https://www.deltadentalmo.com/Subscribers/Provider_search?PlanType=Premier","13",,
+"2014","MO","40807","HIOS","6","2013-11-26 13:14:08","40807","MO","Delta Dental PPO","MON002","https://www.deltadentalmo.com/Subscribers/Provider_search?PlanType=PPO","14",,
+"2014","MO","44240","HIOS","8","2013-11-26 13:14:08","44240","MO","PPO Exchange","MON001","http://ks.coventryproviders.com","13",,
+"2014","MO","44527","HIOS","7","2014-01-21 08:29:49","44527","MO","PPO Network","MON001","http://MOSL.coventryproviders.com","13",,
+"2014","MO","44527","HIOS","7","2014-01-21 08:29:49","44527","MO","Carelink from Coventry Network","MON002","http://MOSL.coventryproviders.com","14",,
+"2014","MO","48616","HIOS","1","2013-06-04 08:25:28","48616","MO","Ameritas PPO Dental Network","MON001","www.ameritasgroup.com","13",,
+"2014","MO","48786","HIOS","5","2013-09-02 11:39:25","48786","MO","DentalGuard Preferred","MON001","https://www.guardiananytime.com/fpapp/FPWeb/dentalSearch.process","13",,
+"2014","MO","59976","HIOS","1","2013-06-06 10:50:48","59976","MO","Lincoln Dental Connect","MON001","http://lfg.go2dental.com/member/dental_search/searchprov.cgi?P=LFGDentalConnect&Network=L","13",,
+"2014","MO","68396","HIOS","7","2013-10-15 07:27:56","68396","MO","EHB Basic Dental Plan (Low)","MON001","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_MO&planType=DPPO&networkID=2","13",,
+"2014","MO","68396","HIOS","7","2013-10-15 07:27:56","68396","MO","EHB Enhanced Dental Plan (High)","MON002","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_MO&planType=DPPO&networkID=2","14",,
+"2014","MO","68396","HIOS","7","2013-10-15 07:27:56","68396","MO","Family Basic Dental Plan (Low)","MON003","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_MO&planType=DPPO&networkID=2","15",,
+"2014","MO","68396","HIOS","7","2013-10-15 07:27:56","68396","MO","Family Enhanced Dental Plan (High)","MON004","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_MO&planType=DPPO&networkID=2","16",,
+"2014","MO","86182","HIOS","1","2013-06-06 10:50:48","86182","MO","Ameritas PPO Dental Network","MON001","www.standard.com","13",,
+"2014","MS","11324","HIOS","8","2014-01-21 08:29:49","11324","MS","DenteMax","MSN001","http://www2.dentemax.com/","13",,
+"2014","MS","46300","HIOS","4","2014-01-21 08:29:49","46300","MS","ACB","MSN001","http://www.alwayscarebenefits.com/comm/providers/MSDentalProviderDirectory.pdf","13",,
+"2014","MS","48963","HIOS","10","2014-03-19 07:06:49","48963","MS","Jackson PPOx","MSN001","http://pfp.humana.com/Pfp/PfpMain.aspx?cust=1059&pfpkey=807","13",,
+"2014","MS","48963","HIOS","10","2014-03-19 07:06:49","48963","MS","Memphis PPOx","MSN002","http://pfp.humana.com/Pfp/PfpMain.aspx?cust=1059&pfpkey=810","14",,
+"2014","MS","48963","HIOS","10","2014-03-19 07:06:49","48963","MS","Humana Dental PPO Traditional Preferred","MSN003","https://www.humana.com/finder/search?customerID=1085&pfpkey=317","15",,
+"2014","MS","48963","HIOS","10","2014-03-19 07:06:49","48963","MS","Humana ChoiceCare Network PPO","MSN004","http://pfp.humana.com/Pfp/PfpMain.aspx?cust=1059&pfpkey=124","16",,
+"2014","MS","49374","HIOS","8","2014-01-21 08:29:49","49374","MS","Delta Dental PPO","MSN001","http://www.deltadentalins.com/find-a-dentist/","13",,
+"2014","MS","60328","HIOS","8","2014-01-17 09:36:20","60328","MS","Dentegra Dental PPO","MSN001","http://www.dentegra.com/find-a-dentist","13",,
+"2014","MS","94237","HIOS","4","2013-08-30 07:44:10","94237","MS","Ambetter from Magnolia Health Plan","MSN001","http://ambetter.magnoliahealthplan.com/findadoc","13",,
+"2014","NC","11512","HIOS","9","2014-01-29 08:00:05","11512","NC","PPO","NCN001","http://www.bcbsnc.com/content/providersearch/index.htm","13",,
+"2014","NC","11512","HIOS","9","2014-01-29 08:00:05","11512","NC","POS","NCN002","http://www.bcbsnc.com/content/providersearch/index.htm","14",,
+"2014","NC","14125","HIOS","3","2013-08-01 12:48:00","14125","NC","Lincoln Dental Connect","NCN001","http://lfg.go2dental.com/member/dental_search/searchprov.cgi?P=LFGDentalConnect&Network=L","13",,
+"2014","NC","40411","HIOS","4","2013-07-31 07:05:07","40411","NC","OAP","NCN001","www.Cigna.com/ifp-providers","13",,
+"2014","NC","40435","HIOS","6","2013-10-15 07:27:56","40435","NC","EHB Basic Dental Plan (Low)","NCN001","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_NC&planType=DPPO&networkID=2","13",,
+"2014","NC","40435","HIOS","6","2013-10-15 07:27:56","40435","NC","EHB Enhanced Dental Plan (High)","NCN002","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_NC&planType=DPPO&networkID=2","14",,
+"2014","NC","40435","HIOS","6","2013-10-15 07:27:56","40435","NC","Family Basic Dental Plan (Low)","NCN003","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_NC&planType=DPPO&networkID=2","15",,
+"2014","NC","40435","HIOS","6","2013-10-15 07:27:56","40435","NC","Family Enhanced Dental Plan (High)","NCN004","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_NC&planType=DPPO&networkID=2","16",,
+"2014","NC","55440","HIOS","4","2013-09-17 16:07:07","55440","NC","DentalGuard Preferred","NCN001","https://www.guardiananytime.com/fpapp/FPWeb/dentalSearch.process","13",,
+"2014","NC","56346","HIOS","6","2013-10-15 07:27:56","56346","NC","Carelink Cornerstone Network","NCN001","http://nc.coventryproviders.com","13",,
+"2014","NC","56346","HIOS","6","2013-10-15 07:27:56","56346","NC","Carelink CaroMont Network","NCN002","http://nc.coventryproviders.com","14",,
+"2014","NC","56346","HIOS","6","2013-10-15 07:27:56","56346","NC","Carelink Carolinas HealthCare System Network","NCN003","http://nc.coventryproviders.com","15",,
+"2014","IL","36096","SERFF","10","2014-01-22 11:51:12","36096","IL","PPO","ILN001","https://public.hcsc.net/providerfinder/search.do?corpEntCd=IL1","13","Individual","No"
+"2014","IL","36096","SERFF","10","2014-01-22 11:51:12","36096","IL","Blue Choice PPO","ILN002","https://public.hcsc.net/providerfinder/search.do?corpEntCd=IL1","14","SHOP (Small Group)","No"
+"2014","IL","36096","SERFF","10","2014-01-22 11:51:12","36096","IL","Blue Choice PPO","ILN002","https://public.hcsc.net/providerfinder/search.do?corpEntCd=IL1","14","Individual","No"
+"2014","IL","36096","SERFF","10","2014-01-22 11:51:12","36096","IL","Blue Precision HMO","ILN003","https://public.hcsc.net/providerfinder/search.do?corpEntCd=IL1","15","SHOP (Small Group)","No"
+"2014","IL","36096","SERFF","10","2014-01-22 11:51:12","36096","IL","Blue Precision HMO","ILN003","https://public.hcsc.net/providerfinder/search.do?corpEntCd=IL1","15","Individual","No"
+"2014","IL","46552","SERFF","1","2013-08-01 21:15:43","46552","IL","Renaissance Dental","ILN001","www.renaissancedental.com/Find-a-Dentist","13","SHOP (Small Group)","Yes"
+"2014","IL","46552","SERFF","1","2013-08-01 21:15:43","46552","IL","Renaissance Dental","ILN001","www.renaissancedental.com/Find-a-Dentist","13","Individual","Yes"
+"2014","IL","46552","SERFF","1","2013-08-01 21:15:43","46552","IL","Delta Dental","ILN002","http://www.deltadental.com/DentistSearch/DentistSearchController.ccl","14","Individual","Yes"
+"2014","IL","58288","SERFF","3","2013-09-02 14:52:56","58288","IL","NorthShore Complete Care HMOx","ILN001","http://pfp.humana.com/Pfp/PfpMain.aspx?cust=1059&pfpkey=729","13","Individual","No"
+"2014","IL","58288","SERFF","3","2013-09-02 14:52:56","58288","IL","Chicago HMOx","ILN002","http://pfp.humana.com/Pfp/PfpMain.aspx?cust=1059&pfpkey=793","14","Individual","No"
+"2014","IL","58288","SERFF","3","2013-09-02 14:52:56","58288","IL","Springfield HMOx","ILN003","http://pfp.humana.com/Pfp/PfpMain.aspx?cust=1059&pfpkey=797","15","Individual","No"
+"2014","IL","58288","SERFF","3","2013-09-02 14:52:56","58288","IL","Rockford Peoria HMOx","ILN004","http://pfp.humana.com/Pfp/PfpMain.aspx?cust=1059&pfpkey=757","16","Individual","No"
+"2014","IL","60600","SERFF","4","2013-09-19 10:34:04","60600","IL","Delta Dental PPO","ILN001","www.deltadentalilexchange.com/dentist-search","13","Individual","Yes"
+"2014","IL","60600","SERFF","4","2013-09-19 10:34:04","60600","IL","Delta Dental PPO","ILN001","www.deltadentalilexchange.com/dentist-search","13","SHOP (Small Group)","Yes"
+"2014","IL","68303","SERFF","4","2014-01-22 11:51:12","68303","IL","ChoicePOS","ILN001","http://pfp.humana.com/Pfp/PfpMain.aspx?cust=1059&pfpkey=385","13","Individual","No"
+"2014","IL","68303","SERFF","3","2013-09-02 14:52:56","68303","IL","Humana Dental PPO/Traditional Peferred","ILN001","http://pfp.humana.com/Pfp/PfpMain.aspx?cust=1085&pfpkey=317&provtype=6","13","Individual","Yes"
+"2014","IL","68303","SERFF","4","2014-01-22 11:51:12","68303","IL","Humana Dental PPO/Traditional Preferred","ILN002","https://www.humana.com/finder/search?customerID=1085&pfpkey=317","13","Individual","Yes"
+"2014","IL","72547","SERFF","6","2013-09-19 10:34:04","72547","IL","QHP PPO_OAMC_Chicago Illinois","ILN001","http://www.aetna.com/individuals-families-health-insurance/buy-insurance/exchange/il.html","13","Individual","No"
+"2014","NC","56346","HIOS","6","2013-10-15 07:27:56","56346","NC","Carelink Duke Network","NCN004","http://nc.coventryproviders.com","16",,
+"2014","NC","56346","HIOS","6","2013-10-15 07:27:56","56346","NC","CoventryOne Network","NCN005","http://nc.coventryproviders.com","17",,
+"2014","NC","56891","HIOS","1","2013-06-07 09:05:04","56891","NC","Delta Dental","NCN001","http://www.deltadentalnc.com/Find-a-Dentist.aspx","13",,
+"2014","NC","94482","HIOS","9","2014-01-21 08:29:49","94482","NC","DenteMax","NCN001","http://www2.dentemax.com/","13",,
+"2014","ND","27882","HIOS","2","2013-09-25 08:49:23","27882","ND","Delta Dental PPO plus Premier","NDN001","www.deltadentalmn.org/findADentist","13",,
+"2014","ND","33011","HIOS","2","2013-07-02 22:25:47","33011","ND","Ameritas PPO Dental Network","NDN001","www.standard.com","13",,
+"2014","ND","33889","HIOS","6","2013-09-17 16:07:07","33889","ND","DentalGuard Preferred","NDN001","https://www.guardiananytime.com/fpapp/FPWeb/dentalSearch.process","13",,
+"2014","ND","37160","HIOS","6","2014-01-21 08:29:49","37160","ND","Preferred Blue PPO","NDN001","https://www.bcbsnd.com/doctor/","13",,
+"2014","ND","40479","HIOS","1","2013-06-07 09:05:04","40479","ND","Lincoln Dental Connect","NDN001","http://lfg.go2dental.com/member/dental_search/searchprov.cgi?P=LFGDentalConnect&Network=L","13",,
+"2014","ND","73751","HIOS","4","2013-09-02 11:39:25","73751","ND","MHP Medica Essential","NDN001","www.medica.com/EssentialProviders","13",,
+"2014","ND","73751","HIOS","4","2013-09-02 11:39:25","73751","ND","Medica Applause","NDN002","www.medica.com/ApplauseProviders","14",,
+"2014","ND","75329","HIOS","8","2014-01-21 08:29:49","75329","ND","DenteMax","NDN001","http://www2.dentemax.com/","13",,
+"2014","ND","89364","HIOS","5","2013-09-02 11:39:25","89364","ND","Sanford Health Plan North Dakota Network","NDN001","https://www.viiad.com/shp/provider_search_main.asp","13",,
+"2014","ND","93236","HIOS","2","2013-07-01 08:34:30","93236","ND","Ameritas PPO Dental Network","NDN001","www.ameritasgroup.com","13",,
+"2014","NJ","10191","HIOS","7","2014-05-02 13:10:05","10191","NJ","QualCare Regional HMO Network","NJN001","http://network-nj.healthrepublic.us/FindADoctor/FindADoctor_HRICoOpMain.aspx","13",,
+"2014","NJ","40704","HIOS","2","2013-07-01 08:34:30","40704","NJ","Ameritas PPO Dental Network","NJN001","www.ameritasgroup.com","13",,
+"2014","NJ","44811","HIOS","4","2013-09-02 11:39:25","44811","NJ","Managed DentalGuard","NJN001","https://www.guardiananytime.com/fpapp/FPWeb/dentalSearch.process","13",,
+"2014","NJ","48608","HIOS","8","2014-01-17 09:36:20","48608","NJ","Dentegra Dental PPO","NJN001","http://www.dentegra.com/find-a-dentist","13",,
+"2014","NJ","51791","HIOS","2","2013-07-01 08:34:30","51791","NJ","Ameritas PPO Dental Network","NJN001","www.standard.com","13",,
+"2014","NJ","53877","HIOS","6","2013-10-15 07:27:56","53877","NJ","EHB Basic Dental Plan (Low)","NJN001","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_NJ&planType=DUAL&custNum=0383218&networkID=2","13",,
+"2014","NJ","53877","HIOS","6","2013-10-15 07:27:56","53877","NJ","EHB Enhanced Dental Plan (High)","NJN002","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_NJ&planType=DUAL&custNum=0383218&networkID=2","14",,
+"2014","NJ","53877","HIOS","6","2013-10-15 07:27:56","53877","NJ","Family Basic Dental Plan (Low)","NJN003","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_NJ&planType=DUAL&custNum=0383218&networkID=2","15",,
+"2014","NJ","53877","HIOS","6","2013-10-15 07:27:56","53877","NJ","Family Enhanced Dental Plan (High)","NJN004","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_NJ&planType=DUAL&custNum=0383218&networkID=2","16",,
+"2014","NJ","77606","HIOS","8","2014-01-21 08:29:49","77606","NJ","AmeriHealth HMO Inc","NJN001","www.amerihealth.com/ffm/directories2","13",,
+"2014","NJ","77606","HIOS","8","2014-01-21 08:29:49","77606","NJ","AmeriHealth Value HMO","NJN002","www.amerihealth.com/ffm/directories2","14",,
+"2014","NJ","79422","HIOS","6","2013-10-15 07:27:56","79422","NJ","EHB Basic Dental Plan (Low)","NJN001","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_NJ&planType=DUAL&custNum=0383218&networkID=2","13",,
+"2014","NJ","79422","HIOS","6","2013-10-15 07:27:56","79422","NJ","EHB Enhanced Dental Plan (High)","NJN002","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_NJ&planType=DUAL&custNum=0383218&networkID=2","14",,
+"2014","NJ","79422","HIOS","6","2013-10-15 07:27:56","79422","NJ","Family Basic Dental Plan (Low)","NJN003","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_NJ&planType=DUAL&custNum=0383218&networkID=2","15",,
+"2014","NJ","79422","HIOS","6","2013-10-15 07:27:56","79422","NJ","Family Enhanced Dental Plan (High)","NJN004","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_NJ&planType=DUAL&custNum=0383218&networkID=2","16",,
+"2014","NJ","91661","HIOS","11","2014-07-25 16:54:18","91661","NJ","Horizon BCBSNJ Managed Care Network","NJN001","directory.horizonblue.com","13",,
+"2014","NJ","91661","HIOS","11","2014-07-25 16:54:18","91661","NJ","Horizon BCBSNJ Dental PPO/Traditional Network","NJN002","directory.horizonblue.com","14",,
+"2014","NJ","91762","HIOS","9","2013-11-26 13:14:08","91762","NJ","AmeriHealth PPO","NJN001","www.amerihealth.com/ffm/directories2","13",,
+"2014","NJ","91762","HIOS","9","2013-11-26 13:14:08","91762","NJ","AmeriHealth Value PPO","NJN002","www.amerihealth.com/ffm/directories2","14",,
+"2014","NJ","91762","HIOS","9","2013-11-26 13:14:08","91762","NJ","AmeriHealth PPO National Access","NJN003","www.amerihealth.com/ffm/directories3","15",,
+"2014","NJ","93627","HIOS","4","2013-09-02 11:39:25","93627","NJ","DentalGuard Preferred","NJN001","https://www.guardiananytime.com/fpapp/FPWeb/dentalSearch.process","13",,
+"2014","NJ","97057","HIOS","9","2014-01-21 08:29:49","97057","NJ","Alliance","NJN001","https://secure.ucci.com/tp2fad/?network=094","13",,
+"2014","NJ","99708","HIOS","5","2013-09-05 07:36:38","99708","NJ","Delta Dental PPO","NJN001","http://www.deltadentalcoversme.com/dentistsearch?entry=exchange1","13",,
+"2014","NJ","99708","HIOS","5","2013-09-05 07:36:38","99708","NJ","Delta Dental Premier","NJN002","http://www.deltadentalcoversme.com/dentistsearch?entry=exchange2","14",,
+"2014","OH","34968","HIOS","2","2013-10-16 16:52:58","34968","OH","EHB Basic Dental Plan (Low)","OHN001","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_OH&planType=DPPO&networkID=2","13",,
+"2014","OH","34968","HIOS","2","2013-10-16 16:52:58","34968","OH","EHB Enhanced Dental Plan (High)","OHN002","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_OH&planType=DPPO&networkID=2","14",,
+"2014","OH","34968","HIOS","2","2013-10-16 16:52:58","34968","OH","Family Basic Dental Plan (Low)","OHN003","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_OH&planType=DPPO&networkID=2","15",,
+"2014","OH","34968","HIOS","2","2013-10-16 16:52:58","34968","OH","Family Enhanced Dental Plan (High)","OHN004","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_OH&planType=DPPO&networkID=2","16",,
+"2014","OK","40254","HIOS","7","2014-01-21 08:29:49","40254","OK","DenteMax","OKN001","http://www2.dentemax.com/","13",,
+"2014","OK","45689","HIOS","5","2014-01-17 09:36:20","45689","OK","Dentegra Dental PPO","OKN001","http://www.dentegra.com/find-a-dentist","13",,
+"2014","OK","53524","HIOS","6","2013-11-26 13:14:08","53524","OK","Coventry Health and Life Insurance Company","OKN001","http://ok.coventryproviders.com","13",,
+"2014","OK","66946","HIOS","7","2013-09-17 16:07:07","66946","OK","QHP PPO_OAMC_Oklahoma","OKN001","http://www.aetna.com/individuals-families-health-insurance/buy-insurance/exchange/ok.html","13",,
+"2014","OK","76668","HIOS","6","2013-11-26 13:14:08","76668","OK","Carelink Tulsa Region","OKN001","http://ok.coventryproviders.com","13",,
+"2014","OK","76668","HIOS","6","2013-11-26 13:14:08","76668","OK","Integris Health Partners","OKN002","http://ok.coventryproviders.com","14",,
+"2014","OK","77760","HIOS","7","2013-09-10 14:43:20","77760","OK","DDOK Network SHOP","OKN001","https://sites.deltadentalok.org/DentistSearch/","13",,
+"2014","OK","77760","HIOS","7","2013-09-10 14:43:20","77760","OK","DDOK Network Individual","OKN002","http://www.deltadentalcoversme.com/dentistsearch","14",,
+"2014","OK","81457","HIOS","4","2013-09-02 11:39:25","81457","OK","DentalGuard Preferred","OKN001","https://www.guardiananytime.com/fpapp/FPWeb/dentalSearch.process","13",,
+"2014","OK","85408","HIOS","4","2014-05-02 13:10:05","85408","OK","GlobalHealth","OKN001","www.globalhealth.com","13",,
+"2014","OK","87571","HIOS","9","2014-01-21 08:29:49","87571","OK","Blue Choice PPO","OKN001","https://public.hcsc.net/providerfinder/home.do?corpEntCd=OK1","13",,
+"2014","OK","87571","HIOS","9","2014-01-21 08:29:49","87571","OK","Blue Preferred PPO","OKN002","https://public.hcsc.net/providerfinder/home.do?corpEntCd=OK1","14",,
+"2014","OK","87571","HIOS","9","2014-01-21 08:29:49","87571","OK","Blue Advantage PPO","OKN003","https://public.hcsc.net/providerfinder/home.do?corpEntCd=OK1","15",,
+"2014","OK","87571","HIOS","9","2014-01-21 08:29:49","87571","OK","BlueCare Dental PPO","OKN004","https://public.hcsc.net/providerfinder/home.do?corpEntCd=OK1","16",,
+"2014","OK","87698","HIOS","7","2014-07-25 16:54:18","87698","OK","CommunityCare Marketplace Select","OKN001","http://marketplace.ccok.com?directory=3","13",,
+"2014","OK","91848","HIOS","2","2013-08-30 07:44:10","91848","OK","Lincoln Dental Connect","OKN001","http://lfg.go2dental.com/member/dental_search/searchprov.cgi?P=LFGDentalConnect&Network=L","13",,
+"2014","OK","98905","HIOS","7","2014-07-25 16:54:18","98905","OK","CommunityCare Marketplace Select","OKN001","http://marketplace.ccok.com?directory=1","13",,
+"2014","OK","98905","HIOS","7","2014-07-25 16:54:18","98905","OK","CommunityCare Marketplace Standard","OKN002","http://marketplace.ccok.com?directory=2","14",,
+"2014","PA","15614","HIOS","4","2013-09-11 07:49:18","15614","PA","Dominion Dental DHMO","PAN001","https://www.dominiondental.com/find-a-dentist","13",,
+"2014","PA","15614","HIOS","4","2013-09-11 07:49:18","15614","PA","Dominion Dental PPO","PAN002","https://www.dominiondental.com/find-a-dentist","14",,
+"2014","PA","16481","HIOS","11","2014-03-19 07:06:49","16481","PA","UPMC Health Network PPOIndividualDentalHMO","PAN001","http://www.upmchealthplan.com/marketplace/network.aspx?network=06_IND_PPO_Serv5_Med29_DentDH","13",,
+"2014","PA","16481","HIOS","11","2014-03-19 07:06:49","16481","PA","UPMC Health Network PPOIndividualDentalPPO","PAN002","http://www.upmchealthplan.com/marketplace/network.aspx?network=07_IND_PPO_Serv24_Med29_DentDP","14",,
+"2014","PA","16481","HIOS","11","2014-03-19 07:06:49","16481","PA","UPMC Inside Advantage PPODental Advantage","PAN003","http://www.upmchealthplan.com/marketplace/network.aspx?network=08_SHOP_PPO_Serv10_Med29_DentA","15",,
+"2014","PA","16481","HIOS","11","2014-03-19 07:06:49","16481","PA","UPMC Health Network PPOShopDentalAdvantage","PAN004","http://www.upmchealthplan.com/marketplace/network.aspx?network=09_SHOP_PPO_Serv29_Med29_DentA","16",,
+"2014","PA","16481","HIOS","11","2014-03-19 07:06:49","16481","PA","UPMC Health Network EPODental Advantage","PAN005","http://www.upmchealthplan.com/marketplace/network.aspx?network=10_SHOP_EPO_Serv29_Med29_DentA","17",,
+"2014","PA","16481","HIOS","11","2014-03-19 07:06:49","16481","PA","UPMC Health Network Standalone Dental Advantage PPO","PAN006","http://www.upmchealthplan.com/marketplace/network.aspx?network=11_SHOP_DAP_Serv29_DentA","18",,
+"2014","PA","22444","HIOS","9","2014-01-21 08:29:49","22444","PA","GHP HMO","PAN001","http://www.thehealthplan.com/providersearch/","13",,
+"2014","PA","31609","HIOS","9","2014-01-17 09:36:20","31609","PA","Personal Choice PPO","PAN001","www.ibx.com/ffm/directories","13",,
+"2014","PA","32561","HIOS","4","2013-09-02 11:39:25","32561","PA","DentalGuard Preferred","PAN001","https://www.guardiananytime.com/fpapp/FPWeb/dentalSearch.process","13",,
+"2014","PA","33709","HIOS","8","2014-03-19 07:06:49","33709","PA","Community Blue Network","PAN001","https://provdir.highmarkbcbs.com","13",,
+"2014","PA","33709","HIOS","8","2014-03-19 07:06:49","33709","PA","PBS Preferred Professional Provider  and Highmark Blue Shield Facility Provider Network","PAN002","https://provdir.highmarkblueshield.com","14",,
+"2014","PA","33709","HIOS","8","2014-03-19 07:06:49","33709","PA","PBS Preferred Professional Provider  and Highmark Blue Shield Facility Provider Network","PAN003","https://provdir.highmarkblueshield.com","15",,
+"2014","PA","33871","HIOS","7","2013-10-15 07:27:56","33871","PA","Keystone HMO","PAN001","www.ibx.com/ffm/directories","13",,
+"2014","PA","33906","HIOS","6","2013-09-17 16:07:07","33906","PA","QHP PPO_OAMC_Southeastern Pennsylvania","PAN001","http://www.aetna.com/individuals-families-health-insurance/buy-insurance/exchange/pa.html","13",,
+"2014","PA","45127","HIOS","6","2013-11-26 13:14:08","45127","PA","BCD DHMO","PAN001","https://www.capbluecross.com/FindADoctor/FindADoctor/","13",,
+"2014","PA","45127","HIOS","6","2013-11-26 13:14:08","45127","PA","BCD PPO Group","PAN002","https://www.capbluecross.com/FindADoctor/FindADoctor/","14",,
+"2014","PA","45127","HIOS","6","2013-11-26 13:14:08","45127","PA","BCD PPO Individual","PAN003","https://www.capbluecross.com/FindADoctor/FindADoctor/","15",,
+"2014","PA","46518","HIOS","6","2014-01-17 09:36:20","46518","PA","Dentegra Dental PPO","PAN001","http://www.dentegra.com/find-a-dentist","13",,
+"2014","PA","49275","HIOS","7","2014-01-21 08:29:49","49275","PA","Concordia Advantage","PAN001","https://secure.ucci.com/tp2fad/?network=070","13",,
+"2014","PA","52899","HIOS","11","2014-03-19 07:06:49","52899","PA","UPMCHP HMO GatekeeperIndividualDentalHMO","PAN001","http://www.upmchealthplan.com/marketplace/network.aspx?network=01_IND_HMO_Serv5_Med28_DentDH","13",,
+"2014","PA","52899","HIOS","11","2014-03-19 07:06:49","52899","PA","UPMCHP HMO GatekeeperIndividualDentalPPO","PAN002","http://www.upmchealthplan.com/marketplace/network.aspx?network=02_IND_HMO_Serv23_Med28_DentDP","14",,
+"2014","PA","52899","HIOS","11","2014-03-19 07:06:49","52899","PA","UPMCHP AllegAdvHMO GtkprIndivDentalHMO","PAN003","http://www.upmchealthplan.com/marketplace/network.aspx?network=03_IND_HMO_Serv1_Med1_DentDH","15",,
+"2014","PA","52899","HIOS","11","2014-03-19 07:06:49","52899","PA","UMPCHP RegAdvGtkprIndivDentalHMO","PAN004","http://www.upmchealthplan.com/marketplace/network.aspx?network=04_IND_HMO_Serv5_Med5_DentDH","16",,
+"2014","PA","52899","HIOS","11","2014-03-19 07:06:49","52899","PA","UPMCHP HMO GatekeeperSHOP","PAN005","http://www.upmchealthplan.com/marketplace/network.aspx?network=05_SHOP_HMO_Serv28_Med28_DentA","17",,
+"2014","PA","53789","HIOS","10","2014-01-29 08:00:05","53789","PA","KHPC Value HMO Network","PAN001","https://www.capbluecross.com/wps/portal/cbc/FindADoctor/FindADoctorExt/!ut/p/b1/04_SjzS0AEJLI0tLQ_0I_ai8xLLM9MSSzPy8xBwQP8os3sgg2NDAwNTVyNLQ1MLAM8jAKcTN2c0o0MQIqCASRYGvk6uBp5ejoaerd6hxaIAxZfoDjYjTb4ADOBoQ0u-lH5Wek58E9Gq4fhSaYky_4FUAcixYAR7X-Hnk56bq50bluLlZZGcGpCsqAgAM6QKk/dl4/d5/L2dBISEvZ0FBIS9nQSEh/","13",,
+"2014","PA","53789","HIOS","10","2014-01-29 08:00:05","53789","PA","KHPC HMO Network","PAN002","https://www.capbluecross.com/wps/portal/cbc/FindADoctor/FindADoctorExt/!ut/p/b1/04_SjzS0AEJLI0tLQ_0I_ai8xLLM9MSSzPy8xBwQP8os3sgg2NDAwNTVyNLQ1MLAM8jAKcTN2c0o0MQIqCASRYGvk6uBp5ejoaerd6hxaIAxZfoDjYjTb4ADOBoQ0u-lH5Wek58E9Gq4fhSaYky_4FUAcixYAR7X-Hnk56bq50bluLlZZGcGpCsqAgAM6QKk/dl4/d5/L2dBISEvZ0FBIS9nQSEh/","14",,
+"2014","PA","55957","HIOS","5","2013-11-26 13:14:08","55957","PA","First Priority Life PPO","PAN001","https://findadoctor.bcnepa.com","13",,
+"2014","PA","55957","HIOS","5","2013-11-26 13:14:08","55957","PA","First Priority Life Custom PPO","PAN002","https://findadoctor.bcnepa.com","14",,
+"2014","PA","59656","HIOS","6","2014-01-21 08:29:49","59656","PA","Concordia Plus","PAN001","https://secure.ucci.com/tp2fad/?network=017","13",,
+"2014","PA","64844","HIOS","6","2013-09-17 16:07:07","64844","PA","QHP HMO_Southeastern Pennsylvania","PAN001","http://www.aetna.com/individuals-families-health-insurance/buy-insurance/exchange/pa.html","13",,
+"2014","PA","67499","HIOS","5","2014-01-16 07:24:04","67499","PA","Humana Dental PPO/Traditional Preferred","PAN001","https://www.humana.com/finder/search?customerID=1085&pfpkey=317","13",,
+"2014","PA","70194","HIOS","8","2014-03-19 07:06:49","70194","PA","Keystone Health Plan West Network","PAN001","https://provdir.highmarkbcbs.com","13",,
+"2014","PA","70194","HIOS","8","2014-03-19 07:06:49","70194","PA","PBS Preferred Professional and Highmark Blue Shield Facility Provider Network","PAN002","https://provdir.highmarkblueshield.com","14",,
+"2014","PA","70194","HIOS","8","2014-03-19 07:06:49","70194","PA","PBS Preferred Professional and Highmark Blue Shield Facility Provider Network","PAN003","https://provdir.highmarkblueshield.com","15",,
+"2014","PA","70533","HIOS","3","2013-07-31 07:05:07","70533","PA","Lincoln Dental Connect","PAN001","http://lfg.go2dental.com/member/dental_search/searchprov.cgi?P=LFGDentalConnect&Network=L","13",,
+"2014","PA","71933","HIOS","8","2014-01-21 08:29:49","71933","PA","DenteMax","PAN002","http://www2.dentemax.com/","13",,
+"2014","PA","71933","HIOS","8","2014-01-21 08:29:49","71933","PA","CONNECTION Dental through PPO USA","PAN001","http://www.ppousa.com/patients/index.html","14",,
+"2014","PA","75729","HIOS","11","2013-12-20 07:30:10","75729","PA","GHP PPO Network","PAN001","http://www.thehealthplan.com/providersearch/","13",,
+"2014","PA","82110","HIOS","7","2014-01-21 08:29:49","82110","PA","Delta Dental PPO","PAN001","http://www.deltadentalins.com/find-a-dentist/","13",,
+"2014","PA","82110","HIOS","7","2014-01-21 08:29:49","82110","PA","DeltaCare USA DHMO","PAN002","http://www.deltadentalins.com/find-a-dentist/","14",,
+"2014","PA","82795","HIOS","8","2013-11-26 13:14:08","82795","PA","CBC PPO Network","PAN001","https://www.capbluecross.com/wps/portal/cbc/FindADoctor/FindADoctorExt/!ut/p/b1/04_SjzS0AEJLI0tLQ_0I_ai8xLLM9MSSzPy8xBwQP8os3sgg2NDAwNTVyNLQ1MLAM8jAKcTN2c0o0MQIqCASRYGvk6uBp5ejoaerd6hxaIAxZfoDjYjTb4ADOBoQ0u-lH5Wek58E9Gq4fhSaYky_4FUAcixYAR7X-Hnk56bq50bluLlZZGcGpCsqAgAM6QKk/dl4/d5/L2dBISEvZ0FBIS9nQSEh/","13",,
+"2014","PA","91303","HIOS","4","2013-09-17 16:07:07","91303","PA","HealthAmerica","PAN001","http://pa.coventryproviders.com","13",,
+"2014","PA","98060","HIOS","5","2013-10-16 16:52:58","98060","PA","EHB Basic Dental Plan (Low)","PAN001","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_PA&planType=DPPO&networkID=2","13",,
+"2014","PA","98060","HIOS","5","2013-10-16 16:52:58","98060","PA","EHB Enhanced Dental Plan (High)","PAN002","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_PA&planType=DPPO&networkID=2","14",,
+"2014","PA","98060","HIOS","5","2013-10-16 16:52:58","98060","PA","Family Basic Dental Plan (Low)","PAN003","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_PA&planType=DPPO&networkID=2","15",,
+"2014","PA","98060","HIOS","5","2013-10-16 16:52:58","98060","PA","Family Enhanced Dental Plan (High)","PAN004","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_PA&planType=DPPO&networkID=2","16",,
+"2014","SC","26065","HIOS","4","2013-09-02 11:39:25","26065","SC","BlueEssentials Network","SCN001","https://www.southcarolinablues.com/links/metallic/providerdirectory","13",,
+"2014","SC","26065","HIOS","4","2013-09-02 11:39:25","26065","SC","Preferred Blue PPO Network","SCN002","https://www.southcarolinablues.com/links/metallic/providerdirectory","14",,
+"2014","SC","41614","HIOS","5","2013-10-15 07:27:56","41614","SC","Carelink Regional HealthPlus Network","SCN001","http://sc.coventryproviders.com","13",,
+"2014","SC","41614","HIOS","5","2013-10-15 07:27:56","41614","SC","Carelink Roper St Francis Network","SCN002","http://sc.coventryproviders.com","14",,
+"2014","SC","41614","HIOS","5","2013-10-15 07:27:56","41614","SC","Carelink Upstate Network","SCN003","http://sc.coventryproviders.com","15",,
+"2014","SC","41614","HIOS","5","2013-10-15 07:27:56","41614","SC","Carelink Midlands Network","SCN004","http://sc.coventryproviders.com","16",,
+"2014","SC","41614","HIOS","5","2013-10-15 07:27:56","41614","SC","CoventryOne Network","SCN005","http://sc.coventryproviders.com","17",,
+"2014","SC","49532","HIOS","6","2014-03-19 07:06:49","49532","SC","MyChoice Advantage Network","SCN001","http://www.bluechoicesc.com/doctorhospitalfinder.aspx","13",,
+"2014","SC","49532","HIOS","6","2014-03-19 07:06:49","49532","SC","Business Advantage Network","SCN002","http://www.bluechoicesc.com/doctorhospitalfinder.aspx","14",,
+"2014","SC","54362","HIOS","2","2013-07-01 08:34:30","54362","SC","OAP","SCN001","www.Cigna.com/ifp-providers","13",,
+"2014","SC","65122","HIOS","5","2013-09-10 14:43:20","65122","SC","CCHP EPO","SCN001","http://www.cchpsc.org/members/network","13",,
+"2014","SC","77305","HIOS","7","2013-11-26 13:14:08","77305","SC","Delta Dental Premier","SCN001","https://www.deltadentalsc.com/Subscribers/Provider_search?PlanType=Premier","13",,
+"2014","SC","77305","HIOS","7","2013-11-26 13:14:08","77305","SC","Delta Dental PPO","SCN002","https://www.deltadentalsc.com/Subscribers/Provider_search?PlanType=PPO","14",,
+"2014","SC","84589","HIOS","2","2013-08-01 12:48:00","84589","SC","Lincoln Dental Connect","SCN001","http://lfg.go2dental.com/member/dental_search/searchprov.cgi?P=LFGDentalConnect&Network=L","13",,
+"2014","SC","84939","HIOS","4","2013-09-02 11:39:25","84939","SC","DentalGuard Preferred","SCN001","https://www.guardiananytime.com/fpapp/FPWeb/dentalSearch.process","13",,
+"2014","SC","84966","HIOS","3","2013-08-09 08:21:29","84966","SC","EHB Basic Dental Plan (Low)","SCN001","https://www.metlife.com/dental","13",,
+"2014","SC","84966","HIOS","3","2013-08-09 08:21:29","84966","SC","EHB Enhanced Dental Plan (High)","SCN002","https://www.metlife.com/dental","14",,
+"2014","SC","84966","HIOS","3","2013-08-09 08:21:29","84966","SC","Family Basic Dental Plan (Low)","SCN003","https://www.metlife.com/dental","15",,
+"2014","SC","84966","HIOS","3","2013-08-09 08:21:29","84966","SC","Family Enhanced Dental Plan (High)","SCN004","https://www.metlife.com/dental","16",,
+"2014","SC","89281","HIOS","8","2014-01-21 08:29:49","89281","SC","DenteMax","SCN001","http://www2.dentemax.com/","13",,
+"2014","SC","97325","HIOS","7","2013-11-26 13:14:08","97325","SC","Renaissance Dental","SCN001","www.renaissancedental.com/Find-a-Dentist","13",,
+"2014","SC","97325","HIOS","7","2013-11-26 13:14:08","97325","SC","Delta Dental","SCN002","http://www.deltadental.com/DentistSearch/DentistSearchController.ccl","14",,
+"2014","TN","14002","HIOS","7","2014-01-29 08:00:05","14002","TN","Network S","TNN001","www.bcbst.com","13",,
+"2014","TN","14002","HIOS","7","2014-01-29 08:00:05","14002","TN","Network P","TNN002","www.bcbst.com","14",,
+"2014","TN","14002","HIOS","7","2014-01-29 08:00:05","14002","TN","Network E","TNN003","www.bcbst.com","15",,
+"2014","TN","22384","HIOS","5","2014-01-22 07:31:14","22384","TN","Delta Dental Premier","TNN001","http://www.deltadental.com/DentistSearch/DentistSearchController.ccl?ViewProduct=B01","13",,
+"2014","TN","22384","HIOS","5","2014-01-22 07:31:14","22384","TN","Delta Dental PPO","TNN002","http://www.deltadental.com/DentistSearch/DentistSearchController.ccl?ViewProduct=B20","14",,
+"2014","TN","24601","HIOS","9","2014-01-21 08:29:49","24601","TN","DenteMax","TNN001","http://www2.dentemax.com/","13",,
+"2014","TN","66842","HIOS","5","2013-10-15 07:27:56","66842","TN","CHA EPO","TNN001","http://www.chatn.org/members/network/","13",,
+"2014","TN","77432","HIOS","2","2013-08-01 12:48:00","77432","TN","Lincoln Dental Connect","TNN001","http://lfg.go2dental.com/member/dental_search/searchprov.cgi?P=LFGDentalConnect&Network=L","13",,
+"2014","TN","82120","HIOS","9","2014-01-21 08:29:49","82120","TN","Chattanooga PPOx","TNN001","http://pfp.humana.com/Pfp/PfpMain.aspx?cust=1059&pfpkey=806","13",,
+"2014","TN","82120","HIOS","9","2014-01-21 08:29:49","82120","TN","Knoxville PPOx","TNN002","http://pfp.humana.com/Pfp/PfpMain.aspx?cust=1059&pfpkey=812","14",,
+"2014","TN","82120","HIOS","9","2014-01-21 08:29:49","82120","TN","Memphis PPOx","TNN003","http://pfp.humana.com/Pfp/PfpMain.aspx?cust=1059&pfpkey=810","15",,
+"2014","TN","82120","HIOS","9","2014-01-21 08:29:49","82120","TN","Nashville PPOx","TNN004","http://pfp.humana.com/Pfp/PfpMain.aspx?cust=1059&pfpkey=811","16",,
+"2014","TN","82120","HIOS","9","2014-01-21 08:29:49","82120","TN","Humana Dental PPO Traditional Preferred","TNN005","https://www.humana.com/finder/search?customerID=1085&pfpkey=317","17",,
+"2014","TN","90402","HIOS","3","2013-09-02 11:39:25","90402","TN","DentalGuard Preferred","TNN001","https://www.guardiananytime.com/fpapp/FPWeb/dentalSearch.process","13",,
+"2014","TN","99248","HIOS","14","2013-10-15 07:27:56","99248","TN","Tennessee LocalPlus Network","TNN001","www.Cigna.com/ifp-providers","13",,
+"2014","TX","19312","HIOS","5","2013-09-22 09:35:26","19312","TX","Premier Access Dental","TXN001","www.premierlife.com/providersearch","13",,
+"2014","TX","23749","HIOS","7","2014-01-17 09:36:20","23749","TX","Dentegra Dental PPO","TXN001","http://www.dentegra.com/find-a-dentist","13",,
+"2014","TX","23891","HIOS","8","2014-03-19 07:06:49","23891","TX","DeltaCare USA DHMO","TXN001","http://www.deltadentalins.com/find-a-dentist/","13",,
+"2014","TX","24349","HIOS","7","2014-01-21 08:29:49","24349","TX","Delta Dental PPO","TXN001","http://www.deltadentalins.com/find-a-dentist/","13",,
+"2014","TX","26250","HIOS","5","2013-09-17 16:07:07","26250","TX","Managed DentalGuard","TXN001","https://www.guardiananytime.com/fpapp/FPWeb/dentalSearch.process","13",,
+"2014","TX","26539","HIOS","5","2013-11-25 12:40:15","26539","TX","HMO Provider Network","TXN001","www.firstcare.com/marketplace","13",,
+"2014","TX","27248","HIOS","7","2013-09-10 14:43:20","27248","TX","CHC Health Insurance Marketplace","TXN001","https://www.CHCHealth.org/AffordableHealth/Search/ProviderFind.aspx","13",,
+"2014","TX","32673","HIOS","6","2013-08-30 07:44:10","32673","TX","HMO Premier","TXN001","http://pfp.humana.com/Pfp/PfpMain.aspx?cust=1059&pfpkey=347","13",,
+"2014","TX","32673","HIOS","6","2013-08-30 07:44:10","32673","TX","Austin HMOx","TXN002","http://pfp.humana.com/Pfp/PfpMain.aspx?cust=1059&pfpkey=636","14",,
+"2014","TX","32673","HIOS","6","2013-08-30 07:44:10","32673","TX","Houston HMOx","TXN003","http://pfp.humana.com/Pfp/PfpMain.aspx?cust=1059&pfpkey=732","15",,
+"2014","TX","32673","HIOS","6","2013-08-30 07:44:10","32673","TX","Waco HMOx","TXN004","http://pfp.humana.com/Pfp/PfpMain.aspx?cust=1059&pfpkey=759","16",,
+"2014","TX","32673","HIOS","6","2013-08-30 07:44:10","32673","TX","San Antonio HMOx","TXN005","http://pfp.humana.com/Pfp/PfpMain.aspx?cust=1059&pfpkey=821","17",,
+"2014","TX","33348","HIOS","4","2014-01-21 08:29:49","33348","TX","DenteMax Plus","TXN001","http://www.alwayscarebenefits.com/comm/providers/TXDentalProviderDirectory.pdf","13",,
+"2014","TX","33602","HIOS","8","2013-11-23 14:44:18","33602","TX","Blue Choice PPO","TXN001","https://public.hcsc.net/providerfinder/search.do?corpEntCd=TX1","13",,
+"2014","TX","33602","HIOS","8","2013-11-23 14:44:18","33602","TX","Blue Advantage PPO","TXN002","https://public.hcsc.net/providerfinder/search.do?corpEntCd=TX1","14",,
+"2014","TX","33602","HIOS","8","2013-11-23 14:44:18","33602","TX","BlueCare Dental PPO","TXN004","https://public.hcsc.net/providerfinder/search.do?corpEntCd=TX1","15",,
+"2014","TX","40540","HIOS","6","2013-11-26 13:14:08","40540","TX","Renaissance Dental","TXN001","www.renaissancedental.com/Find-a-Dentist","13",,
+"2014","TX","40540","HIOS","6","2013-11-26 13:14:08","40540","TX","Delta Dental","TXN002","http://www.deltadental.com/DentistSearch/DentistSearchController.ccl","14",,
+"2014","TX","40788","HIOS","6","2014-01-21 08:29:49","40788","TX","SWHP Provider Network","TXN001","http://scottwhite.prismisp.com","13",,
+"2014","TX","45786","HIOS","6","2013-10-15 07:27:56","45786","TX","Molina","TXN001","http://www.molinahealthcare.com/providersearch","13",,
+"2014","TX","46224","HIOS","9","2014-01-17 09:36:20","46224","TX","Community First Health Plans Marketplace Network","TXN001","http://www.cfhp.com/FindaPhysician/HIE_Search.aspx","13",,
+"2014","TX","47665","HIOS","7","2014-01-21 08:29:49","47665","TX","DenteMax","TXN002","http://www2.dentemax.com/","13",,
+"2014","TX","47665","HIOS","7","2014-01-21 08:29:49","47665","TX","CONNECTION Dental through PPO USA","TXN001","http://www.ppousa.com/patients/index.html","14",,
+"2014","TX","48364","HIOS","7","2013-10-15 07:27:56","48364","TX","EHB Basic Dental Plan (Low)","TXN001","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_TX&planType=DUAL&custNum=0383217&networkID=2","13",,
+"2014","TX","48364","HIOS","7","2013-10-15 07:27:56","48364","TX","EHB Enhanced Dental Plan (High)","TXN002","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_TX&planType=DUAL&custNum=0383217&networkID=2","14",,
+"2014","TX","48364","HIOS","7","2013-10-15 07:27:56","48364","TX","Family Basic Dental Plan (Low)","TXN003","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_TX&planType=DUAL&custNum=0383217&networkID=2","15",,
+"2014","TX","48364","HIOS","7","2013-10-15 07:27:56","48364","TX","Family Enhanced Dental Plan (High)","TXN004","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_TX&planType=DUAL&custNum=0383217&networkID=2","16",,
+"2014","TX","55409","HIOS","12","2013-10-15 07:27:56","55409","TX","Texas LocalPlus Network","TXN001","www.Cigna.com/ifp-providers","13",,
+"2014","TX","58609","HIOS","3","2013-08-30 07:44:10","58609","TX","DentaQuest USA Insurance Company","TXN001","www.dentaquest.com","13",,
+"2014","TX","60141","HIOS","5","2013-09-11 07:49:18","60141","TX","Concordia Plus","TXN001","https://secure.ucci.com/tp2fad/?network=017","13",,
+"2014","TX","63141","HIOS","8","2014-03-19 07:06:49","63141","TX","Rio Grande Hidalgo EPOx","TXN001","http://pfp.humana.com/Pfp/PfpMain.aspx?cust=1059&pfpkey=730","13",,
+"2014","TX","63141","HIOS","8","2014-03-19 07:06:49","63141","TX","Humana Dental PPO Traditional Preferred","TXN002","https://www.humana.com/finder/search?customerID=1085&pfpkey=317","14",,
+"2014","TX","71837","HIOS","8","2014-01-21 08:29:49","71837","TX","Sendero IdealCare","TXN001","www.senderohealth.com/idealcarenetwork/","13",,
+"2014","TX","72166","HIOS","1","2013-06-06 10:50:48","72166","TX","Lincoln Dental Connect","TXN001","http://lfg.go2dental.com/member/dental_search/searchprov.cgi?P=LFGDentalConnect&Network=L","13",,
+"2014","TX","87226","HIOS","5","2014-01-21 08:29:49","87226","TX","Ambetter from Superior Health Plan","TXN001","http://ambetter.superiorhealthplan.com/findadoc","13",,
+"2014","TX","91716","HIOS","6","2013-09-17 16:07:07","91716","TX","QHP PPO_OAMC_Texas","TXN001","http://www.aetna.com/individuals-families-health-insurance/buy-insurance/exchange/tx.html","13",,
+"2014","TX","92388","HIOS","6","2013-10-15 07:27:56","92388","TX","EHB Basic Dental Plan (Low)","TXN001","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_TX&planType=DUAL&custNum=0383217&networkID=2","13",,
+"2014","TX","92388","HIOS","6","2013-10-15 07:27:56","92388","TX","EHB Enhanced Dental Plan (High)","TXN002","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_TX&planType=DUAL&custNum=0383217&networkID=2","14",,
+"2014","TX","92388","HIOS","6","2013-10-15 07:27:56","92388","TX","Family Basic Dental Plan (Low)","TXN003","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_TX&planType=DUAL&custNum=0383217&networkID=2","15",,
+"2014","TX","92388","HIOS","6","2013-10-15 07:27:56","92388","TX","Family Enhanced Dental Plan (High)","TXN004","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_TX&planType=DUAL&custNum=0383217&networkID=2","16",,
+"2014","TX","97937","HIOS","4","2013-09-10 14:43:20","97937","TX","Advantage Plus","TXN001","https://secure.ucci.com/tp2fad/?network=074","13",,
+"2014","VA","72006","HIOS","4","2013-10-16 16:52:58","72006","VA","EHB Basic Dental Plan (Low)","VAN001","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_VA&planType=DPPO&networkID=2","13",,
+"2014","VA","72006","HIOS","4","2013-10-16 16:52:58","72006","VA","EHB Enhanced Dental Plan (High)","VAN002","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_VA&planType=DPPO&networkID=2","14",,
+"2014","VA","72006","HIOS","4","2013-10-16 16:52:58","72006","VA","Family Basic Dental Plan (Low)","VAN003","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_VA&planType=DPPO&networkID=2","15",,
+"2014","VA","72006","HIOS","4","2013-10-16 16:52:58","72006","VA","Family Enhanced Dental Plan (High)","VAN004","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_VA&planType=DPPO&networkID=2","16",,
+"2014","WI","16837","HIOS","5","2014-01-17 09:36:20","16837","WI","Dentegra Dental PPO","WIN001","http://www.dentegra.com/find-a-dentist","13",,
+"2014","WI","35334","HIOS","3","2013-08-14 11:02:32","35334","WI","PPO","WIN001","http://www.mercycarehealthplans.com/n-providerdirectory/mchp_provider1.asp?_from=member","13",,
+"2014","WI","37833","HIOS","6","2013-11-23 14:44:18","37833","WI","Unity UW Health","WIN001","http://unityhealth.com/HIX/Unity-UWHealth","13",,
+"2014","WI","38152","HIOS","1","2013-06-06 10:50:48","38152","WI","Lincoln Dental Connect","WIN001","http://lfg.go2dental.com/member/dental_search/searchprov.cgi?P=LFGDentalConnect&Network=L","13",,
+"2014","WI","38166","HIOS","5","2013-09-17 16:07:07","38166","WI","SHP Broad Network","WIN001","http://www.securityhealth.org/directory","13",,
+"2014","WI","38166","HIOS","5","2013-09-17 16:07:07","38166","WI","SHP Narrow Network","WIN002","http://www.securityhealth.org/directory","14",,
+"2014","WI","38345","HIOS","10","2014-01-16 07:24:04","38345","WI","Dean Health Plan HMO Network","WIN001","http://www.deancare.com/find-a-doc/marketplace-hmo-plan-providers/","13",,
+"2014","WI","38345","HIOS","10","2014-01-16 07:24:04","38345","WI","Dean Health Plan Focus Network","WIN002","http://www.deancare.com/find-a-doc/marketplace-epo-plan-providers/","14",,
+"2014","WI","38345","HIOS","10","2014-01-16 07:24:04","38345","WI","Prevea360 Health Plan Network","WIN003","http://www.prevea360.com/About-Prevea360-Health-Plan/Marketplace-HMO-Plan-Providers.aspx","15",,
+"2014","WI","47342","HIOS","11","2014-07-25 16:54:18","47342","WI","Health Tradition Provider Network","WIN001","http://www.healthtradition.com/find-a-provider","13",,
+"2014","WI","52697","HIOS","5","2013-10-15 07:27:56","52697","WI","Molina Healthcare","WIN001","http://www.molinahealthcare.com/providersearch","13",,
+"2014","WI","57637","HIOS","5","2014-05-02 13:10:05","57637","WI","Medica Choice Passport","WIN001","www.medica.com/ChoicePlusProviders","13",,
+"2014","WI","57845","HIOS","3","2013-09-02 11:39:25","57845","WI","Medica Applause","WIN001","www.medica.com/ApplauseProviders","13",,
+"2014","WI","58326","HIOS","4","2014-01-21 08:29:49","58326","WI","HMO","WIN001","http://www.mercycarehealthplans.com/n-providerdirectory/mchp_provider1.asp?_from=member","13",,
+"2014","WI","58326","HIOS","4","2014-01-21 08:29:49","58326","WI","EPO","WIN002","http://www.mercycarehealthplans.com/n-providerdirectory/mchp_provider1.asp?_from=member","14",,
+"2014","WI","58564","HIOS","8","2014-01-17 09:36:20","58564","WI","MyMeriter","WIN001","http://directory.pplusic.com","13",,
+"2014","WI","58564","HIOS","8","2014-01-17 09:36:20","58564","WI","Meriter Plus","WIN002","http://directory.pplusic.com","14",,
+"2014","WI","58564","HIOS","8","2014-01-17 09:36:20","58564","WI","Select","WIN003","http://directory.pplusic.com","15",,
+"2014","WI","69589","HIOS","4","2013-09-02 11:39:25","69589","WI","DentalGuard Preferred","WIN001","https://www.guardiananytime.com/fpapp/FPWeb/dentalSearch.process","13",,
+"2014","WI","79475","HIOS","10","2013-11-23 14:44:18","79475","WI","Blue Priority X  WI","WIN001","https://www.anthem.com/health-insurance/provider-directory/searchcriteria?brand=abcbs","13",,
+"2014","WI","79475","HIOS","10","2013-11-23 14:44:18","79475","WI","Blue Priority X  WI (with dental)","WIN002","www.anthem.com","14",,
+"2014","WI","79597","HIOS","4","2013-09-10 14:43:20","79597","WI","Delta Dental PPO","WIN001","http://www.deltadentalcoversme.com/dentistsearch?entry=exchange1","13",,
+"2014","WI","79597","HIOS","4","2013-09-10 14:43:20","79597","WI","Delta Dental PPO","WIN002","http://www.deltadental.com/DentistSearch/DentistSearchController.ccl?ViewProduct=B20","14",,
+"2014","WI","81335","HIOS","7","2013-10-15 07:27:56","81335","WI","EHB Basic Dental Plan (Low)","WIN001","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_WI&planType=DPPO&networkID=2","13",,
+"2014","WI","81335","HIOS","7","2013-10-15 07:27:56","81335","WI","EHB Enhanced Dental Plan (High)","WIN002","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_WI&planType=DPPO&networkID=2","14",,
+"2014","WI","81335","HIOS","7","2013-10-15 07:27:56","81335","WI","Family Basic Dental Plan (Low)","WIN003","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_WI&planType=DPPO&networkID=2","15",,
+"2014","SD","31195","SERFF","2","2013-09-19 10:34:04","31195","SD","Sanford Health Plan South Dakota Network","SDN001","https://www.viiad.com/shp/provider_search_main.asp","13","Individual","No"
+"2014","SD","60536","SERFF","4","2013-09-16 08:58:26","60536","SD","Avera Health Plans","SDN001","www.Avera.org/ProviderDirectory","13","SHOP (Small Group)","No"
+"2014","SD","60536","SERFF","4","2013-09-16 08:58:26","60536","SD","Avera Health Plans","SDN001","www.Avera.org/ProviderDirectory","13","Individual","No"
+"2014","SD","61214","SERFF","6","2014-01-24 09:49:15","61214","SD","DenteMax","SDN001","http://www2.dentemax.com/","13","SHOP (Small Group)","Yes"
+"2014","SD","61214","SERFF","6","2014-01-24 09:49:15","61214","SD","DenteMax","SDN001","http://www2.dentemax.com/","13","Individual","Yes"
+"2014","SD","62210","SERFF","8","2014-06-23 15:22:56","62210","SD","DAKOTACARE","SDN001","http://www.dakotacare.com/locateourproviders/providerdirectory/","13","Individual","No"
+"2014","SD","62210","SERFF","8","2014-06-23 15:22:56","62210","SD","DAKOTACARE","SDN001","http://www.dakotacare.com/locateourproviders/providerdirectory/","13","SHOP (Small Group)","No"
+"2014","SD","80261","SERFF","1","2013-08-01 21:15:43","80261","SD","Lincoln Dental Connect","SDN001","http://lfg.go2dental.com/member/dental_search/searchprov.cgi?P=LFGDentalConnect&Network=L","13","SHOP (Small Group)","Yes"
+"2014","SD","80608","SERFF","3","2013-09-16 08:58:26","80608","SD","DentalGuard Preferred","SDN001","https://www.guardiananytime.com/fpapp/FPWeb/dentalSearch.process","13","SHOP (Small Group)","Yes"
+"2014","UT","14948","SERFF","3","2013-10-15 10:04:03","14948","UT","DeltaCare USA DHMO","UTN001","http://www.deltadentalins.com/find-a-dentist/","13","SHOP (Small Group)","Yes"
+"2014","UT","14948","SERFF","3","2013-10-15 10:04:03","14948","UT","DeltaCare USA DHMO","UTN001","http://www.deltadentalins.com/find-a-dentist/","13","Individual","Yes"
+"2014","UT","18167","SERFF","5","2014-07-30 17:22:07","18167","UT","Molina Healthcare of Utah","UTN001","http://www.molinahealthcare.com/providersearch","13","Individual","No"
+"2014","UT","27619","SERFF","7","2014-01-24 09:49:15","27619","UT","Arches Horizon Network","UTN001","http://www.archeshealth.org/providernetwork","13","Individual","No"
+"2014","UT","27619","SERFF","7","2014-01-24 09:49:15","27619","UT","Arches Horizon Network","UTN001","http://www.archeshealth.org/providernetwork","13","SHOP (Small Group)","No"
+"2014","UT","34541","SERFF","3","2014-01-14 14:20:21","34541","UT","Exchange Network","UTN001","www.bridgespanhealth.com","13","Individual","No"
+"2014","UT","38927","SERFF","7","2013-10-16 19:58:29","38927","UT","Altius Peak Preference Network","UTN001","http://ut.coventryproviders.com","13","Individual","No"
+"2014","UT","38927","SERFF","7","2013-10-16 19:58:29","38927","UT","Altius Network","UTN002","http://ut.coventryproviders.com","14","Individual","No"
+"2014","UT","40335","SERFF","2","2013-10-15 10:04:03","40335","UT","Premier","UTN001","emihealth.com","13","Individual","Yes"
+"2014","UT","40335","SERFF","2","2013-10-15 10:04:03","40335","UT","Advantage","UTN002","emihealth.com","14","Individual","Yes"
+"2014","UT","42757","SERFF","6","2014-01-22 11:51:12","42757","UT","DenteMax","UTN001","http://www2.dentemax.com/","13","Individual","Yes"
+"2014","UT","46958","SERFF","4","2014-01-22 11:51:12","46958","UT","Humana Dental PPO/Traditional Preferred","UTN001","https://www.humana.com/finder/search?customerID=1085&pfpkey=317","13","Individual","Yes"
+"2014","UT","56764","SERFF","2","2013-09-02 14:52:56","56764","UT","Salt Lake City HMOx","UTN001","http://pfp.humana.com/Pfp/PfpMain.aspx?cust=1059&pfpkey=820","13","Individual","No"
+"2014","UT","68781","SERFF","3","2013-09-16 08:58:26","68781","UT","Fundamental","UTN001","selecthealth.org/findaprovider","13","Individual","Yes"
+"2014","UT","68781","SERFF","6","2014-03-18 09:48:59","68781","UT","Select Care","UTN001","http://intermountainhealthcare.org/providers/index.html?brand=sh","13","Individual","No"
+"2014","UT","68781","SERFF","6","2014-03-18 09:48:59","68781","UT","Select Med","UTN002","http://intermountainhealthcare.org/providers/index.html?brand=sh","14","Individual","No"
+"2014","UT","68781","SERFF","3","2013-09-16 08:58:26","68781","UT","Prime","UTN002","selecthealth.org/findaprovider","14","Individual","Yes"
+"2014","UT","68781","SERFF","6","2014-03-18 09:48:59","68781","UT","Select Value","UTN003","http://intermountainhealthcare.org/providers/index.html?brand=sh","15","Individual","No"
+"2014","UT","68781","SERFF","3","2013-09-16 08:58:26","68781","UT","Classic","UTN003","selecthealth.org/findaprovider","15","Individual","Yes"
+"2014","UT","68781","SERFF","6","2014-03-18 09:48:59","68781","UT","Fundamental","UTN004","selecthealth.org/findaprovider","16","Individual","Yes"
+"2014","UT","68781","SERFF","6","2014-03-18 09:48:59","68781","UT","Prime","UTN005","selecthealth.org/findaprovider","17","Individual","Yes"
+"2014","UT","68781","SERFF","6","2014-03-18 09:48:59","68781","UT","Classic","UTN006","selecthealth.org/findaprovider","18","Individual","Yes"
+"2014","UT","68809","SERFF","3","2013-09-17 21:55:00","68809","UT","Premier Access Dental","UTN001","www.premierlife.com/providersearch","13","Individual","Yes"
+"2014","UT","71246","SERFF","3","2013-10-15 10:04:03","71246","UT","Delta Dental PPO","UTN001","http://www.deltadentalins.com/find-a-dentist/","13","Individual","Yes"
+"2014","VA","10207","SERFF","9","2014-01-22 11:51:12","10207","VA","CareFirst BlueChoice","VAN001","https://member.carefirst.com/wps/portal/Member/public/findaprovider","13","Individual","No"
+"2014","VA","10207","SERFF","9","2014-01-22 11:51:12","10207","VA","CareFirst BlueChoice","VAN001","https://member.carefirst.com/wps/portal/Member/public/findaprovider","13","SHOP (Small Group)","No"
+"2014","VA","12028","SERFF","4","2013-09-19 10:34:04","12028","VA","QHP PPO_OAMC_I H Virginia","VAN001","http://www.innovation-health.com/individual-families/exchange","13","Individual","No"
+"2014","VA","13756","SERFF","5","2014-01-22 11:51:12","13756","VA","Advantage Plus","VAN001","https://secure.ucci.com/tp2fad/?network=074","13","SHOP (Small Group)","Yes"
+"2014","VA","13756","SERFF","5","2014-01-22 11:51:12","13756","VA","Advantage Plus","VAN001","https://secure.ucci.com/tp2fad/?network=074","13","Individual","Yes"
+"2014","VA","16064","SERFF","6","2014-06-23 15:22:56","16064","VA","Dental Prime","VAN001","www.anthem.com","13","SHOP (Small Group)","Yes"
+"2014","VA","16064","SERFF","6","2014-06-23 15:22:56","16064","VA","Dental Prime","VAN001","www.anthem.com","13","Individual","Yes"
+"2014","VA","20507","SERFF","7","2014-03-13 08:40:27","20507","VA","Optima Health Plan","VAN001","http://optimahealth.prismisp.com","13","Individual","No"
+"2014","VA","20507","SERFF","7","2014-03-13 08:40:27","20507","VA","Optima Health Plan","VAN001","http://optimahealth.prismisp.com","13","SHOP (Small Group)","No"
+"2014","VA","24832","SERFF","1","2013-08-01 21:15:43","24832","VA","Renaissance Dental","VAN001","www.renaissancedental.com/Find-a-Dentist","13","Individual","Yes"
+"2014","VA","24832","SERFF","1","2013-08-01 21:15:43","24832","VA","Renaissance Dental","VAN001","www.renaissancedental.com/Find-a-Dentist","13","SHOP (Small Group)","Yes"
+"2014","VA","24832","SERFF","1","2013-08-01 21:15:43","24832","VA","Delta Dental","VAN002","http://www.deltadental.com/DentistSearch/DentistSearchController.ccl","14","Individual","Yes"
+"2014","VA","31319","SERFF","1","2013-08-01 21:15:43","31319","VA","Delta Dental Premier","VAN001","http://www.deltadental.com/DentistSearch/DentistSearchController.ccl?ViewProduct=B01","13","Individual","Yes"
+"2014","VA","31319","SERFF","1","2013-08-01 21:15:43","31319","VA","Delta Dental Premier","VAN001","http://www.deltadental.com/DentistSearch/DentistSearchController.ccl?ViewProduct=B01","13","SHOP (Small Group)","Yes"
+"2014","VA","38234","SERFF","5","2014-01-17 15:54:39","38234","VA","QHP PPO_OAMC_Virginia","VAN001","http://www.aetna.com/individuals-families-health-insurance/buy-insurance/exchange/va.html","13","Individual","No"
+"2014","WI","81335","HIOS","7","2013-10-15 07:27:56","81335","WI","Family Enhanced Dental Plan (High)","WIN004","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_WI&planType=DPPO&networkID=2","16",,
+"2014","WI","84670","HIOS","9","2014-05-02 13:10:05","84670","WI","Arise Exclusive","WIN001","http://www.wecareforwisconsin.com/members/find_a_doctor/narrow","13",,
+"2014","WI","84670","HIOS","9","2014-05-02 13:10:05","84670","WI","Arise Broad","WIN002","http://www.wecareforwisconsin.com/visitors/find_a_doctor/agree","14",,
+"2014","WI","87416","HIOS","6","2013-10-15 07:27:56","87416","WI","Empower","WIN001","https://portal.commongroundhealthcare.org/Router.jsp?component=Main&source=Logon&action=ProviderDirectory&NetworkNo=EMPOWER","13",,
+"2014","WI","87416","HIOS","6","2013-10-15 07:27:56","87416","WI","Envision","WIN002","https://portal.commongroundhealthcare.org/Router.jsp?component=Main&source=Logon&action=ProviderDirectory&NetworkNo=ENVISION","14",,
+"2014","WI","90028","HIOS","5","2014-03-19 07:06:49","90028","WI","Blue Priority X WI","WIN001","www.anthem.com","13",,
+"2014","WI","90028","HIOS","5","2014-03-19 07:06:49","90028","WI","Blue Priority X WI","WIN002","www.anthem.com","14",,
+"2014","WI","90028","HIOS","5","2014-03-19 07:06:49","90028","WI","Dental Prime","WIN003","www.anthem.com","15",,
+"2014","WI","91058","HIOS","3","2013-09-02 11:39:25","91058","WI","GundersenSelectSHOP","WIN001","www.gundersenhealthplan.org/providersearch","13",,
+"2014","WI","91058","HIOS","3","2013-09-02 11:39:25","91058","WI","GundersenPlusSHOP","WIN002","www.gundersenhealthplan.org/providersearch","14",,
+"2014","WI","91058","HIOS","3","2013-09-02 11:39:25","91058","WI","GundersenOneIndividual","WIN003","www.gundersenhealthplan.org/providersearch","15",,
+"2014","WI","91604","HIOS","6","2014-01-16 07:24:04","91604","WI","Humana Dental PPO/Traditional Preferred","WIN001","https://www.humana.com/finder/search?customerID=1085&pfpkey=317","13",,
+"2014","WI","94529","HIOS","10","2014-03-19 07:06:49","94529","WI","Group Health Cooperative of South Central Wisconsin HMO","WIN001","https://ghcscw.com/SiteCollectionDocuments/Provider_Directory.pdf","13",,
+"2014","WI","94529","HIOS","10","2014-03-19 07:06:49","94529","WI","Group Health Cooperative of South Central Wisconsin PPO","WIN002","https://ghcscw.com/SiteCollectionDocuments/Provider_Directory.pdf","14",,
+"2014","WY","11269","HIOS","6","2013-09-14 08:04:57","11269","WY","BlueSelect","WYN001","http://provider.bcbswy.com","13",,
+"2014","WY","37378","HIOS","1","2013-06-06 10:50:48","37378","WY","Lincoln Dental Connect","WYN001","http://lfg.go2dental.com/member/dental_search/searchprov.cgi?P=LFGDentalConnect&Network=L","13",,
+"2014","WY","47731","HIOS","9","2014-03-19 07:06:49","47731","WY","DenteMax","WYN001","http://www2.dentemax.com/","13",,
+"2014","WY","53189","HIOS","7","2014-01-15 07:08:32","53189","WY","WINhealth Partners Network","WYN001","http://www.winhealthplans.com/members/find-a-provider","13",,
+"2014","WY","83964","HIOS","7","2013-09-14 08:04:57","83964","WY","Delta Dental Premier Network","WYN001","http://www.deltadental.com/DentistSearch/DentistSearchController.ccl?ViewProduct=B01","13",,
+"2014","AK","38344","OPM","2","2013-10-16 19:58:29","38344","AK","HeritagePlus","AKN001","https://www.premera.com/wa/visitor/","13","Individual","No"
+"2014","AK","38344","OPM","2","2013-10-16 19:58:29","38344","AK","HeritagePlus","AKN001","https://www.premera.com/wa/visitor/","13","SHOP (Small Group)","No"
+"2014","AR","75293","OPM","4","2014-01-27 10:05:29","75293","AR","True Blue PPO","ARN001","https://secure.arkansasbluecross.com/providerdirectory/PhysicianSearch.aspx?PlanId=7&INbr1=915011000&INbr2=&Tier=0&coID=&PrvNet=True+Blue+PPO&lFrom=","13","Individual","No"
+"2014","DE","76168","OPM","5","2014-03-21 10:00:27","76168","DE","Highmark DE PPO","DEN001","Provdir.highmarkbcbsde.com","13","Individual","No"
+"2014","GA","49046","OPM","2","2013-11-27 09:24:34","49046","GA","Pathway X","GAN001","https://www.bcbsga.com/health-insurance/provider-directory/searchcriteria?brand=bcbsga","13","Individual","No"
+"2014","GA","49046","OPM","2","2013-11-27 09:24:34","49046","GA","Pathway X (with dental)","GAN002","https://www.bcbsga.com/health-insurance/provider-directory/searchcriteria?brand=bcbsga","14","Individual","No"
+"2014","IL","36096","OPM","2","2013-10-16 19:58:29","36096","IL","PPO","ILN001","https://public.hcsc.net/providerfinder/search.do?corpEntCd=IL1","13","Individual","No"
+"2014","IN","17575","OPM","2","2013-11-27 09:24:34","17575","IN","[Indiana Individual On Exchange Network] Pathway X HMO POS","INN001","https://www.anthem.com/health-insurance/provider-directory/searchcriteria?brand=abcbs","13","Individual","No"
+"2014","IN","17575","OPM","2","2013-11-27 09:24:34","17575","IN","[Indiana Individual On Exchange Network] Pathway X HMO POS (with dental)","INN002","https://www.anthem.com/health-insurance/provider-directory/searchcriteria?brand=abcbs","14","Individual","No"
+"2014","KS","18558","OPM","1","2013-09-25 15:48:46","18558","KS","BlueCAP","KSN001","http://www.bcbsks.com/ProviderDirectory/index_xse.htm","13","Individual","No"
+"2014","LA","97176","OPM","3","2014-01-24 09:49:15","97176","LA","Preferred Care PPO-Vision-Dental","LAN001","http://www.bcbsla.com/ppo-medical-vision-dental","13","Individual","No"
+"2014","ME","48396","OPM","2","2013-11-29 08:33:31","48396","ME","Pathway X Enhanced","MEN001","https://www.anthem.com/health-insurance/provider-directory/searchcriteria?brand=abcbs","13","Individual","No"
+"2014","ME","48396","OPM","2","2013-11-29 08:33:31","48396","ME","Pathway X","MEN002","https://www.anthem.com/health-insurance/provider-directory/searchcriteria?brand=abcbs","14","Individual","No"
+"2014","MI","15560","OPM","2","2013-11-27 09:24:34","15560","MI","TRUST","MIN001","http://www.bcbsm.com/index/common/find-a-doctor.html","13","Individual","No"
+"2014","MO","32753","OPM","2","2013-11-27 09:24:34","32753","MO","Pathway X","MON001","https://www.anthem.com/health-insurance/provider-directory/searchcriteria?brand=abcbs","13","Individual","No"
+"2014","MT","30751","OPM","3","2013-10-17 08:32:07","30751","MT","PPO Network","MTN001","https://www.bcbsmt.com/Pages/NPFprovsearch.aspx","13","Individual","No"
+"2014","NH","96751","OPM","3","2014-03-19 13:58:38","96751","NH","Pathway X Enhanced","NHN001","https://www.anthem.com/health-insurance/provider-directory/searchcriteria?brand=abcbs","13","Individual","No"
+"2014","NH","96751","OPM","3","2014-03-19 13:58:38","96751","NH","Pathway X Enhanced (with dental)","NHN002","https://www.anthem.com/health-insurance/provider-directory/searchcriteria?brand=abcbs","14","Individual","No"
+"2014","NM","75605","OPM","3","2013-11-29 08:33:31","75605","NM","PPO","NMN001","https://public.hcsc.net/providerfinder/home.do?corpEntCd=NM1","13","Individual","No"
+"2014","OK","87571","OPM","2","2013-10-16 19:58:29","87571","OK","Blue Choice PPO","OKN001","https://public.hcsc.net/providerfinder/home.do?corpEntCd=OK1","13","Individual","No"
+"2014","PA","31609","OPM","3","2014-01-24 09:49:15","31609","PA","Personal Choice PPO","PAN001","http://www.ibx.com/individuals/find_provider/index.html","13","Individual","No"
+"2014","PA","53789","OPM","2","2013-10-17 08:32:07","53789","PA","OPM MSP Value HMO Network","PAN001","https://www.capbluecross.com/wps/portal/cbc/FindADoctor/FindADoctorExt/!ut/p/b1/04_SjzS0AEJLI0tLQ_0I_ai8xLLM9MSSzPy8xBwQP8os3sgg2NDAwNTVyNLQ1MLAM8jAKcTN2c0o0MQIqCASRYGvk6uBp5ejoaerd6hxaIAxZfoDjYjTb4ADOBoQ0u-lH5Wek58E9Gq4fhSaYky_4FUAcixYAR7X-Hnk56bq50bluLlZZGcGpCsqAgAM6QKk/dl4/d5/L2dBISEvZ0FBIS9nQSEh/","13","Individual","No"
+"2014","PA","53789","OPM","2","2013-10-17 08:32:07","53789","PA","OPM MSP HMO Network","PAN002","https://www.capbluecross.com/wps/portal/cbc/FindADoctor/FindADoctorExt/!ut/p/b1/04_SjzS0AEJLI0tLQ_0I_ai8xLLM9MSSzPy8xBwQP8os3sgg2NDAwNTVyNLQ1MLAM8jAKcTN2c0o0MQIqCASRYGvk6uBp5ejoaerd6hxaIAxZfoDjYjTb4ADOBoQ0u-lH5Wek58E9Gq4fhSaYky_4FUAcixYAR7X-Hnk56bq50bluLlZZGcGpCsqAgAM6QKk/dl4/d5/L2dBISEvZ0FBIS9nQSEh/","14","Individual","No"
+"2014","PA","55957","OPM","3","2013-11-27 09:24:34","55957","PA","First Priority Life PPO","PAN001","https://findadoctor.bcnepa.com","13","Individual","No"
+"2014","PA","70194","OPM","3","2014-03-21 10:00:27","70194","PA","Highmark Blue Cross Blue Shield Network","PAN002","Provdir.highmarkbcbs.com","13","Individual","No"
+"2014","PA","70194","OPM","3","2014-03-21 10:00:27","70194","PA","Highmark Blue Shield Network","PAN001","Provdir.highmarkblueshield.com","14","Individual","No"
+"2014","SC","26065","OPM","2","2014-01-24 09:49:15","26065","SC","BlueEssentials Network","SCN001","https://www.southcarolinablues.com/links/metallic/providerdirectory","13","Individual","No"
+"2014","TN","14002","OPM","2","2014-02-12 13:51:41","14002","TN","Network P","TNN002","www.bcbst.com","14","Individual","No"
+"2014","TX","33602","OPM","3","2013-11-27 09:24:34","33602","TX","Blue Choice PPO","TXN001","https://public.hcsc.net/providerfinder/search.do?corpEntCd=TX1","13","Individual","No"
+"2014","VA","40308","OPM","5","2014-01-24 09:49:15","40308","VA","Regional Preferred Participating Network","VAN002","https://member.carefirst.com/wps/portal/Member/public/findaprovider","13","SHOP (Small Group)","No"
+"2014","VA","40308","OPM","5","2014-01-24 09:49:15","40308","VA","Regional Preferred Participating Network","VAN002","https://member.carefirst.com/wps/portal/Member/public/findaprovider","13","Individual","No"
+"2014","VA","88380","OPM","4","2014-03-19 13:58:38","88380","VA","Pathway X Tiered Hospital  (On)","VAN001","https://www.anthem.com/health-insurance/provider-directory/searchcriteria?brand=abcbs","13","Individual","No"
+"2014","VA","88380","OPM","4","2014-03-19 13:58:38","88380","VA","Pathway X Tiered Hospital  (with Dental)","VAN002","https://www.anthem.com/health-insurance/provider-directory/searchcriteria?brand=abcbs","14","Individual","No"
+"2014","WI","79475","OPM","2","2013-11-27 09:24:34","79475","WI","Blue Priority X  WI","WIN001","https://www.anthem.com/health-insurance/provider-directory/searchcriteria?brand=abcbs","13","Individual","No"
+"2014","WI","79475","OPM","2","2013-11-27 09:24:34","79475","WI","Blue Priority X  WI (with dental)","WIN002","https://www.anthem.com","14","Individual","No"
+"2014","WV","31274","OPM","5","2014-03-21 10:00:27","31274","WV","Highmark PPO","WVN001","Provdir.highmarkbcbswv.com","13","Individual","No"
+"2014","AR","26904","SERFF","6","2014-01-22 11:51:12","26904","AR","DenteMax","ARN001","http://www2.dentemax.com/","13","Individual","Yes"
+"2014","AR","26904","SERFF","6","2014-01-22 11:51:12","26904","AR","DenteMax","ARN001","http://www2.dentemax.com/","13","SHOP (Small Group)","Yes"
+"2014","AR","28348","SERFF","5","2013-11-27 09:24:34","28348","AR","Delta Dental Premier + Delta Dental PPO","ARN001","http://www.deltadental.com/DentistSearch/DentistSearchController.ccl?DView=DentistDentistSearch","13","Individual","Yes"
+"2014","AR","28348","SERFF","5","2013-11-27 09:24:34","28348","AR","Delta Dental Premier","ARN002","http://www.deltadental.com/DentistSearch/DentistSearchController.ccl?DView=DentistDentistSearch","14","Individual","Yes"
+"2014","AR","31227","SERFF","3","2013-09-17 21:55:00","31227","AR","DentalGuard Preferred","ARN001","https://www.guardiananytime.com/fpapp/FPWeb/dentalSearch.process","13","SHOP (Small Group)","Yes"
+"2014","AR","48168","SERFF","1","2013-08-05 08:16:03","48168","AR","Ameritas PPO Dental Network","ARN001","www.ameritasgroup.com","13","SHOP (Small Group)","Yes"
+"2014","AR","53741","SERFF","3","2013-08-23 12:24:02","53741","AR","Ameritas PPO Dental Network","ARN001","www.standard.com","13","SHOP (Small Group)","Yes"
+"2014","AR","60559","SERFF","10","2014-01-23 12:49:01","60559","AR","Dentegra Dental PPO","ARN001","http://www.dentegra.com/find-a-dentist","13","SHOP (Small Group)","Yes"
+"2014","AR","60559","SERFF","10","2014-01-23 12:49:01","60559","AR","Dentegra Dental PPO","ARN001","http://www.dentegra.com/find-a-dentist","13","Individual","Yes"
+"2014","AR","62141","SERFF","7","2014-01-22 11:51:12","62141","AR","NovaSys Health","ARN001","http://ambetter.ambetterofarkansas.com/findadoc","13","Individual","No"
+"2014","AR","67635","SERFF","2","2013-09-02 14:52:56","67635","AR","Lincoln Dental Connect","ARN001","http://lfg.go2dental.com/member/dental_search/searchprov.cgi?P=LFGDentalConnect&Network=L","13","SHOP (Small Group)","Yes"
+"2014","AR","70525","SERFF","8","2014-01-23 12:49:01","70525","AR","Statewide Network","ARN001","https://www.qualchoice.com/provider-search/searchbyprovider.aspx","13","Individual","No"
+"2014","AR","70525","SERFF","8","2014-01-23 12:49:01","70525","AR","Central Arkansas High Value Network","ARN002","https://www.qualchoice.com/provider-search/searchbyprovider.aspx","14","Individual","No"
+"2014","AR","70525","SERFF","8","2014-01-23 12:49:01","70525","AR","Northwest Arkansas High Value Network","ARN003","https://www.qualchoice.com/provider-search/searchbyprovider.aspx","15","Individual","No"
+"2014","AR","75293","SERFF","9","2014-01-22 11:51:12","75293","AR","True Blue PPO","ARN001","https://secure.arkansasbluecross.com/providerdirectory/PhysicianSearch.aspx?PlanId=7&INbr1=915011000&INbr2=&Tier=0&coID=&PrvNet=True+Blue+PPO&lFrom=","13","SHOP (Small Group)","No"
+"2014","AR","75293","SERFF","9","2014-01-22 11:51:12","75293","AR","True Blue PPO","ARN001","https://secure.arkansasbluecross.com/providerdirectory/PhysicianSearch.aspx?PlanId=7&INbr1=915011000&INbr2=&Tier=0&coID=&PrvNet=True+Blue+PPO&lFrom=","13","Individual","No"
+"2014","AR","75293","SERFF","9","2014-01-22 11:51:12","75293","AR","True Blue PPO","ARN001","https://secure.arkansasbluecross.com/providerdirectory/PhysicianSearch.aspx?PlanId=20&INbr1=100000000&INbr2=&Tier=0&coID=&PrvNet=Dental&lFrom","13","SHOP (Small Group)","Yes"
+"2014","AR","75293","SERFF","9","2014-01-22 11:51:12","75293","AR","True Blue PPO","ARN001","https://secure.arkansasbluecross.com/providerdirectory/PhysicianSearch.aspx?PlanId=20&INbr1=100000000&INbr2=&Tier=0&coID=&PrvNet=Dental&lFrom","13","Individual","Yes"
+"2014","DE","13537","SERFF","5","2013-11-27 09:24:34","13537","DE","CoventryOne PPO","DEN001","http://de.coventryproviders.com","13","Individual","No"
+"2014","DE","19005","SERFF","1","2013-08-01 21:15:43","19005","DE","Ameritas PPO Dental Network","DEN001","www.standard.com","13","SHOP (Small Group)","Yes"
+"2014","DE","26018","SERFF","9","2014-01-23 12:49:01","26018","DE","Delta Dental PPO","DEN001","http://www.deltadentalins.com/find-a-dentist/","13","SHOP (Small Group)","Yes"
+"2014","DE","26018","SERFF","9","2014-01-23 12:49:01","26018","DE","Delta Dental PPO","DEN001","http://www.deltadentalins.com/find-a-dentist/","13","Individual","Yes"
+"2014","DE","48664","SERFF","7","2014-01-22 11:51:12","48664","DE","Dentegra Dental PPO","DEN001","http://www.dentegra.com/find-a-dentist","13","SHOP (Small Group)","Yes"
+"2014","DE","48664","SERFF","7","2014-01-22 11:51:12","48664","DE","Dentegra Dental PPO","DEN001","http://www.dentegra.com/find-a-dentist","13","Individual","Yes"
+"2014","DE","61298","SERFF","1","2013-08-01 21:15:43","61298","DE","Ameritas PPO Dental Network","DEN001","www.ameritasgroup.com","13","SHOP (Small Group)","Yes"
+"2014","DE","67775","SERFF","6","2013-11-29 08:33:31","67775","DE","Dominion Dental DHMO","DEN001","https://www.dominiondental.com/find-a-dentist","13","Individual","Yes"
+"2014","DE","67775","SERFF","6","2013-11-29 08:33:31","67775","DE","Dominion Dental DHMO","DEN001","https://www.dominiondental.com/find-a-dentist","13","SHOP (Small Group)","Yes"
+"2014","DE","67775","SERFF","6","2013-11-29 08:33:31","67775","DE","Dominion Dental PPO","DEN002","https://www.dominiondental.com/find-a-dentist","14","SHOP (Small Group)","Yes"
+"2014","DE","67775","SERFF","6","2013-11-29 08:33:31","67775","DE","Dominion Dental PPO","DEN002","https://www.dominiondental.com/find-a-dentist","14","Individual","Yes"
+"2014","DE","76168","SERFF","11","2014-03-20 11:33:30","76168","DE","Highmark DE PPO","DEN001","https://provdir.highmarkbcbsde.com","13","SHOP (Small Group)","No"
+"2014","DE","76168","SERFF","11","2014-03-20 11:33:30","76168","DE","Highmark DE PPO","DEN001","https://provdir.highmarkbcbsde.com","13","Individual","No"
+"2014","DE","81914","SERFF","6","2013-11-27 09:24:34","81914","DE","CoventryOne HMO","DEN001","http://de.coventryproviders.com","13","SHOP (Small Group)","No"
+"2014","DE","81914","SERFF","6","2013-11-27 09:24:34","81914","DE","CoventryOne HMO","DEN001","http://de.coventryproviders.com","13","Individual","No"
+"2014","DE","90955","SERFF","4","2013-09-20 12:46:38","90955","DE","DentalGuard Preferred","DEN001","https://www.guardiananytime.com/fpapp/FPWeb/dentalSearch.process","13","SHOP (Small Group)","Yes"
+"2014","IA","18973","SERFF","3","2013-11-27 09:24:34","18973","IA","Carelink Powered By Methodist Health Partners","IAN001","http://ia.coventryproviders.com","13","Individual","No"
+"2014","IA","18973","SERFF","3","2013-11-27 09:24:34","18973","IA","Carelink Powered By Alegent Creighton Health","IAN002","http://ia.coventryproviders.com","14","Individual","No"
+"2014","IA","18973","SERFF","3","2013-11-27 09:24:34","18973","IA","Carelink Powered By Patient Preferred","IAN003","http://ia.coventryproviders.com","15","Individual","No"
+"2014","IA","18973","SERFF","3","2013-11-27 09:24:34","18973","IA","Carelink Powered By UnityPoint Health Des Moines","IAN004","http://ia.coventryproviders.com","16","Individual","No"
+"2014","IA","18973","SERFF","3","2013-11-27 09:24:34","18973","IA","Carelink Powered By UnityPoint Health","IAN005","http://ia.coventryproviders.com","17","Individual","No"
+"2014","IA","18973","SERFF","3","2013-11-27 09:24:34","18973","IA","Coventry Health Care of Iowa","IAN006","http://ia.coventryproviders.com","18","Individual","No"
+"2014","IA","18973","SERFF","3","2013-11-27 09:24:34","18973","IA","Carelink Powered By MIPPA","IAN007","http://ia.coventryproviders.com","19","Individual","No"
+"2014","IA","27651","SERFF","5","2013-11-27 09:24:34","27651","IA","GundersenSelectSHOP","IAN001","www.gundersenhealthplan.org/providersearch","13","SHOP (Small Group)","No"
+"2014","IA","27651","SERFF","5","2013-11-27 09:24:34","27651","IA","GundersenPlusSHOP","IAN002","www.gundersenhealthplan.org/providersearch","14","SHOP (Small Group)","No"
+"2014","IA","27651","SERFF","5","2013-11-27 09:24:34","27651","IA","GundersenOneIndividual","IAN003","www.gundersenhealthplan.org/providersearch","15","Individual","No"
+"2014","IA","50730","SERFF","4","2013-11-27 09:24:34","50730","IA","DentalGuard Preferred","IAN001","https://www.guardiananytime.com/fpapp/FPWeb/dentalSearch.process","13","SHOP (Small Group)","Yes"
+"2014","IA","52391","SERFF","1","2013-08-01 21:15:43","52391","IA","Ameritas PPO Dental Network","IAN001","www.ameritasgroup.com","13","SHOP (Small Group)","Yes"
+"2014","IA","57646","SERFF","1","2013-08-01 21:15:43","57646","IA","Lincoln Dental Connect","IAN001","http://lfg.go2dental.com/member/dental_search/searchprov.cgi?P=LFGDentalConnect&Network=L","13","SHOP (Small Group)","Yes"
+"2014","IA","63366","SERFF","9","2014-03-18 09:48:59","63366","IA","Premier","IAN001","www.deltadentalia.com/provider-search/dental/","13","SHOP (Small Group)","Yes"
+"2014","IA","63366","SERFF","9","2014-03-18 09:48:59","63366","IA","PPO plus Premier","IAN002","www.deltadentalia.com/provider-search/dental/","14","Individual","Yes"
+"2014","IA","63366","SERFF","9","2014-03-18 09:48:59","63366","IA","PPO plus Premier","IAN002","www.deltadentalia.com/provider-search/dental/","14","SHOP (Small Group)","Yes"
+"2014","IA","71051","SERFF","4","2014-01-14 14:20:21","71051","IA","DenteMax","IAN001","http://www2.dentemax.com/","13","SHOP (Small Group)","Yes"
+"2014","IA","71051","SERFF","4","2014-01-14 14:20:21","71051","IA","DenteMax","IAN001","http://www2.dentemax.com/","13","Individual","Yes"
+"2014","IA","71268","SERFF","8","2014-01-23 12:49:01","71268","IA","CoOportunity Premier","IAN001","www.cooportunityhealth.com/providersearch","13","Individual","No"
+"2014","IA","71268","SERFF","8","2014-01-23 12:49:01","71268","IA","CoOportunity Premier","IAN001","www.cooportunityhealth.com/providersearch","13","SHOP (Small Group)","No"
+"2014","IA","71268","SERFF","8","2014-01-23 12:49:01","71268","IA","CoOportunity Choice UI Health Alliance","IAN002","www.cooportunityhealth.com/providersearch","14","Individual","No"
+"2014","IA","71268","SERFF","8","2014-01-23 12:49:01","71268","IA","CoOportunity Choice UI Health Alliance","IAN002","www.cooportunityhealth.com/providersearch","14","SHOP (Small Group)","No"
+"2014","IA","71268","SERFF","8","2014-01-23 12:49:01","71268","IA","CoOportunity Preferred UI Health Alliance","IAN003","www.cooportunityhealth.com/providersearch","15","Individual","No"
+"2014","IA","71268","SERFF","8","2014-01-23 12:49:01","71268","IA","CoOportunity Preferred UI Health Alliance","IAN003","www.cooportunityhealth.com/providersearch","15","SHOP (Small Group)","No"
+"2014","IA","74980","SERFF","6","2013-11-27 09:24:34","74980","IA","Avera Health Plans","IAN001","www.Avera.org/ProviderDirectory","13","SHOP (Small Group)","No"
+"2014","IA","74980","SERFF","6","2013-11-27 09:24:34","74980","IA","Avera Health Plans","IAN001","www.Avera.org/ProviderDirectory","13","Individual","No"
+"2014","IA","77638","SERFF","5","2013-11-27 09:24:34","77638","IA","Health Alliance HMO/POS Network","IAN001","https://www.healthalliance.org/Guests/ProviderSearch?DirectoryName=NEX","13","SHOP (Small Group)","No"
+"2014","IA","85930","SERFF","3","2013-11-27 09:24:34","85930","IA","Sanford Health Plan Iowa Network","IAN001","https://www.viiad.com/shp/provider_search_main.asp","13","SHOP (Small Group)","No"
+"2014","ID","10204","SERFF","3","2013-09-11 14:31:09","10204","ID","DentalGuard Preferred","IDN001","https://www.guardiananytime.com/fpapp/FPWeb/dentalSearch.process","13","SHOP (Small Group)","Yes"
+"2014","ID","17859","SERFF","4","2014-01-24 09:49:15","17859","ID","DenteMax","IDN001","http://www2.dentemax.com/","13","Individual","Yes"
+"2014","ID","17859","SERFF","4","2014-01-24 09:49:15","17859","ID","DenteMax","IDN001","http://www2.dentemax.com/","13","SHOP (Small Group)","Yes"
+"2014","ID","26002","SERFF","6","2014-01-22 11:51:12","26002","ID","SelectHealth","IDN001","http://intermountainhealthcare.org/providers/results.html?brand=shi&brandButton=shi&selectHealthPlan=&lastName=&specialty=&state=ID&city=&zipCode=&county=&firstName=&clinicAffiliation=&_showOnlyStLukeProviders=on&x=80&y=13","13","Individual","No"
+"2014","ID","26002","SERFF","6","2014-01-22 11:51:12","26002","ID","SelectHealth","IDN001","http://intermountainhealthcare.org/providers/results.html?brand=shi&brandButton=shi&selectHealthPlan=&lastName=&specialty=&state=ID&city=&zipCode=&county=&firstName=&clinicAffiliation=&_showOnlyStLukeProviders=on&x=80&y=13","13","SHOP (Small Group)","No"
+"2014","ID","46641","SERFF","4","2013-09-16 08:58:26","46641","ID","PPO","IDN001","go.deltadentalid.com/providerdirectory","13","Individual","Yes"
+"2014","ID","59765","SERFF","2","2013-09-19 10:34:04","59765","ID","Exchange Local PPO Network","IDN001","www.bridgespanhealth.com","13","Individual","No"
+"2014","ID","60597","SERFF","9","2013-10-16 19:58:29","60597","ID","SmartHealth","IDN001","http://providerdirectory.pacificsource.com","13","SHOP (Small Group)","No"
+"2014","ID","60597","SERFF","9","2013-10-16 19:58:29","60597","ID","SmartHealth","IDN001","http://providerdirectory.pacificsource.com","13","Individual","No"
+"2014","ID","60597","SERFF","9","2013-10-16 19:58:29","60597","ID","BrightPath","IDN002","http://providerdirectory.pacificsource.com","14","Individual","No"
+"2014","ID","60597","SERFF","9","2013-10-16 19:58:29","60597","ID","BrightPath","IDN002","http://providerdirectory.pacificsource.com","14","SHOP (Small Group)","No"
+"2014","ID","60597","SERFF","9","2013-10-16 19:58:29","60597","ID","SmartAlliance","IDN004","http://providerdirectory.pacificsource.com","16","Individual","No"
+"2014","ID","60597","SERFF","9","2013-10-16 19:58:29","60597","ID","SmartAlliance","IDN004","http://providerdirectory.pacificsource.com","16","SHOP (Small Group)","No"
+"2014","ID","60597","SERFF","9","2013-10-16 19:58:29","60597","ID","Dental Advantage","IDN005","http://providerdirectory.pacificsource.com","17","Individual","Yes"
+"2014","ID","60597","SERFF","9","2013-10-16 19:58:29","60597","ID","Dental Indemnity","IDN006","http://providerdirectory.pacificsource.com","18","SHOP (Small Group)","Yes"
+"2014","ID","61589","SERFF","11","2014-01-22 11:51:12","61589","ID","PPO","IDN001","www.bcidaho.com/PPO","13","Individual","No"
+"2014","ID","61589","SERFF","11","2014-01-22 11:51:12","61589","ID","PPO","IDN001","www.bcidaho.com/PPO","13","SHOP (Small Group)","No"
+"2014","ID","61589","SERFF","11","2014-01-22 11:51:12","61589","ID","Connected Care Southwest","IDN002","www.bcidaho.com/SaintAlphonsus","14","SHOP (Small Group)","No"
+"2014","ID","61589","SERFF","11","2014-01-22 11:51:12","61589","ID","Connected Care Southwest","IDN002","www.bcidaho.com/SaintAlphonsus","14","Individual","No"
+"2014","ID","61589","SERFF","11","2014-01-22 11:51:12","61589","ID","Connected Care East","IDN003","www.bcidaho.com/Portneuf","15","Individual","No"
+"2014","ID","61589","SERFF","11","2014-01-22 11:51:12","61589","ID","Connected Care East","IDN003","www.bcidaho.com/Portneuf","15","SHOP (Small Group)","No"
+"2014","ID","61589","SERFF","11","2014-01-22 11:51:12","61589","ID","Dental PPO","IDN004","www.bcidaho.com/DentalPPO","16","Individual","Yes"
+"2014","ID","61589","SERFF","11","2014-01-22 11:51:12","61589","ID","Dental PPO","IDN004","www.bcidaho.com/DentalPPO","16","SHOP (Small Group)","Yes"
+"2014","ID","61589","SERFF","11","2014-01-22 11:51:12","61589","ID","POS","IDN005","www.bcidaho.com/POS","17","SHOP (Small Group)","No"
+"2014","ID","88257","SERFF","1","2013-08-01 21:15:43","88257","ID","Ameritas PPO Dental Network","IDN001","www.standard.com","13","SHOP (Small Group)","Yes"
+"2014","IL","18715","SERFF","5","2014-01-22 11:51:12","18715","IL","Dentegra Dental PPO","ILN001","http://www.dentegra.com/find-a-dentist","13","SHOP (Small Group)","Yes"
+"2014","IL","18715","SERFF","5","2014-01-22 11:51:12","18715","IL","Dentegra Dental PPO","ILN001","http://www.dentegra.com/find-a-dentist","13","Individual","Yes"
+"2014","IL","20129","SERFF","10","2014-01-22 11:51:12","20129","IL","Health Alliance HMO POS Network","ILN001","https://www.healthalliance.org/Guests/ProviderSearch?DirectoryName=IEX","13","Individual","No"
+"2014","IL","20129","SERFF","10","2014-01-22 11:51:12","20129","IL","Health Alliance HMO POS Network","ILN001","https://www.healthalliance.org/Guests/ProviderSearch?DirectoryName=IEX","13","SHOP (Small Group)","No"
+"2014","IL","35670","SERFF","4","2013-09-17 21:55:00","35670","IL","PPO Network","ILN001","http://ilmo.coventryproviders.com","13","Individual","No"
+"2014","IL","35670","SERFF","4","2013-09-17 21:55:00","35670","IL","Carelink from Coventry Network","ILN002","http://ilmo.coventryproviders.com","14","Individual","No"
+"2014","IL","36096","SERFF","10","2014-01-22 11:51:12","36096","IL","PPO","ILN001","https://public.hcsc.net/providerfinder/search.do?corpEntCd=IL1","13","SHOP (Small Group)","No"
+"2014","IL","36096","SERFF","10","2014-01-22 11:51:12","36096","IL","BlueCare Dental PPO","ILN004","https://public.hcsc.net/providerfinder/search.do?corpEntCd=IL1","13","Individual","Yes"
+"2014","IL","36096","SERFF","10","2014-01-22 11:51:12","36096","IL","BlueCare Dental PPO","ILN004","https://public.hcsc.net/providerfinder/search.do?corpEntCd=IL1","13","SHOP (Small Group)","Yes"
+"2014","IL","75159","SERFF","1","2013-08-01 21:15:43","75159","IL","Ameritas PPO Dental Network","ILN001","www.ameritasgroup.com","13","SHOP (Small Group)","Yes"
+"2014","IL","79763","SERFF","7","2014-01-22 11:51:12","79763","IL","Land of Lincoln Mutual Health Insurance Company","ILN001","https://www.landoflincolnhealth.org/find-a-doctor/","13","SHOP (Small Group)","No"
+"2014","IL","79763","SERFF","7","2014-01-22 11:51:12","79763","IL","Land of Lincoln Mutual Health Insurance Company","ILN001","https://www.landoflincolnhealth.org/find-a-doctor/","13","Individual","No"
+"2014","IL","83350","SERFF","6","2013-10-17 08:32:07","83350","IL","EHB Basic Dental Plan (Low)","ILN001","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_IL&planType=DPPO&networkID=2","13","SHOP (Small Group)","Yes"
+"2014","IL","83350","SERFF","6","2013-10-17 08:32:07","83350","IL","EHB Enhanced Dental Plan (High)","ILN002","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_IL&planType=DPPO&networkID=2","14","SHOP (Small Group)","Yes"
+"2014","IL","83350","SERFF","6","2013-10-17 08:32:07","83350","IL","Family Basic Dental Plan (Low)","ILN003","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_IL&planType=DPPO&networkID=2","15","SHOP (Small Group)","Yes"
+"2014","IL","83350","SERFF","6","2013-10-17 08:32:07","83350","IL","Family Enhanced Dental Plan (High)","ILN004","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_IL&planType=DPPO&networkID=2","16","SHOP (Small Group)","Yes"
+"2014","IL","84033","SERFF","5","2014-01-22 11:51:12","84033","IL","DenteMax","ILN001","http://www2.dentemax.com/","13","SHOP (Small Group)","Yes"
+"2014","IL","85099","SERFF","2","2013-08-05 08:16:03","85099","IL","DentalGuard Preferred","ILN001","https://www.guardiananytime.com/fpapp/FPWeb/dentalSearch.process","13","SHOP (Small Group)","Yes"
+"2014","IL","86600","SERFF","1","2013-08-01 21:15:43","86600","IL","Lincoln Dental Connect","ILN001","http://lfg.go2dental.com/member/dental_search/searchprov.cgi?P=LFGDentalConnect&Network=L","13","SHOP (Small Group)","Yes"
+"2014","IL","87304","SERFF","3","2013-08-09 17:41:07","87304","IL","First Commonwealth","ILN001","https://www.guardiananytime.com/fpapp/FPWeb/dentalSearch.process","13","SHOP (Small Group)","Yes"
+"2014","IL","96601","SERFF","7","2014-01-22 11:51:12","96601","IL","PPO Network","ILN001","http://il.coventryproviders.com","13","Individual","No"
+"2014","IL","96601","SERFF","7","2014-01-22 11:51:12","96601","IL","Select Network","ILN002","http://il.coventryproviders.com","14","Individual","No"
+"2014","IL","96601","SERFF","7","2014-01-22 11:51:12","96601","IL","Carelink from Coventry SwedishAmerican Network","ILN003","http://il.coventryproviders.com","15","Individual","No"
+"2014","IL","96601","SERFF","7","2014-01-22 11:51:12","96601","IL","Carelink from Coventry Methodist Network","ILN004","http://il.coventryproviders.com","16","Individual","No"
+"2014","IL","96601","SERFF","7","2014-01-22 11:51:12","96601","IL","Carelink from Coventry St. John's Network","ILN005","http://il.coventryproviders.com","17","Individual","No"
+"2014","KS","18558","SERFF","4","2013-09-13 12:24:07","18558","KS","BlueCAP","KSN001","http://www.bcbsks.com/ProviderDirectory/index_xse.htm","13","SHOP (Small Group)","No"
+"2014","KS","18558","SERFF","4","2013-09-13 12:24:07","18558","KS","BlueCAP","KSN001","http://www.bcbsks.com/ProviderDirectory/index_xse.htm","13","Individual","No"
+"2014","KS","18558","SERFF","4","2013-09-13 12:24:07","18558","KS","BlueCAP Select","KSN002","http://www.bcbsks.com/ProviderDirectory/index_xsl.htm","14","Individual","No"
+"2014","KS","18558","SERFF","4","2013-09-13 12:24:07","18558","KS","BlueCAP Select","KSN002","http://www.bcbsks.com/ProviderDirectory/index_xsl.htm","14","SHOP (Small Group)","No"
+"2014","KS","18558","SERFF","4","2013-09-13 12:24:07","18558","KS","BlueChoice","KSN003","http://www.bcbsks.com/ProviderDirectory/index_xsb.htm","15","SHOP (Small Group)","No"
+"2014","KS","18558","SERFF","4","2013-09-13 12:24:07","18558","KS","BlueChoice","KSN003","http://www.bcbsks.com/ProviderDirectory/index_xsb.htm","15","Individual","No"
+"2014","KS","18558","SERFF","4","2013-09-13 12:24:07","18558","KS","BlueChoice Select","KSN004","http://www.bcbsks.com/ProviderDirectory/index_xsf.htm","16","SHOP (Small Group)","No"
+"2014","KS","18558","SERFF","4","2013-09-13 12:24:07","18558","KS","BlueChoice Select","KSN004","http://www.bcbsks.com/ProviderDirectory/index_xsf.htm","16","Individual","No"
+"2014","KS","31098","SERFF","1","2013-08-01 21:15:43","31098","KS","Ameritas PPO Dental Network","KSN001","www.ameritasgroup.com","13","SHOP (Small Group)","Yes"
+"2014","KS","61430","SERFF","7","2013-10-16 19:58:29","61430","KS","PPO Exchange","KSN001","http://ks.coventryproviders.com","13","Individual","No"
+"2014","KS","61779","SERFF","3","2013-09-16 08:58:26","61779","KS","DentalGuard Preferred","KSN001","https://www.guardiananytime.com/fpapp/FPWeb/dentalSearch.process","13","SHOP (Small Group)","Yes"
+"2014","KS","63790","SERFF","6","2014-03-18 09:48:59","63790","KS","BEST Life Dental Networks","KSN001","http://www.bestlife.com/KS/index.html","13","SHOP (Small Group)","Yes"
+"2014","KS","63790","SERFF","6","2014-03-18 09:48:59","63790","KS","BEST Life Dental Networks","KSN001","http://www.bestlife.com/KS/index.html","13","Individual","Yes"
+"2014","KS","65598","SERFF","6","2014-03-18 09:48:59","65598","KS","POS Kansas Exchange","KSN001","http://ks.coventryproviders.com","13","Individual","No"
+"2014","KS","65598","SERFF","6","2014-03-18 09:48:59","65598","KS","POS Wesley Exchange","KSN002","http://ks.coventryproviders.com","14","Individual","No"
+"2014","KS","81711","SERFF","8","2013-09-17 21:55:00","81711","KS","Delta Dental PPO","KSN001","http://www.deltadentalcoversme.com/dentistsearch?entry=exchange1","13","Individual","Yes"
+"2014","KS","81711","SERFF","8","2013-09-17 21:55:00","81711","KS","Delta Dental PPO (SHOP)","KSN002","http://www.deltadental.com/DentistSearch/DentistSearchController.ccl?ViewProduct=B20","14","SHOP (Small Group)","Yes"
+"2014","KS","81711","SERFF","8","2013-09-17 21:55:00","81711","KS","Delta Dental Premier","KSN003","http://www.deltadental.com/DentistSearch/DentistSearchController.ccl?ViewProduct=B01","15","SHOP (Small Group)","Yes"
+"2014","KS","86246","SERFF","2","2013-08-22 18:09:56","86246","KS","Ameritas PPO Dental Network","KSN001","www.standard.com","13","SHOP (Small Group)","Yes"
+"2014","KS","94248","SERFF","6","2014-01-23 12:49:01","94248","KS","Preferred Care Blue","KSN001","http://www.bluekc.com/ExchangeNetwork","13","Individual","No"
+"2014","KS","94248","SERFF","6","2014-01-23 12:49:01","94248","KS","Preferred Care Blue","KSN001","http://www.bluekc.com/ExchangeNetwork","13","SHOP (Small Group)","No"
+"2014","KS","94248","SERFF","6","2014-01-23 12:49:01","94248","KS","BlueSelect","KSN002","http://www.bluekc.com/ExchangeNetwork","14","Individual","No"
+"2014","ME","13808","SERFF","1","2013-08-01 21:15:43","13808","ME","Lincoln Dental Connect","MEN001","http://lfg.go2dental.com/member/dental_search/searchprov.cgi?P=LFGDentalConnect&Network=L","13","SHOP (Small Group)","Yes"
+"2014","ME","33653","SERFF","6","2014-01-21 11:24:32","33653","ME","MCHO Statewide Network","MEN001","http://www.maineoptions.org/Search-provider","13","Individual","No"
+"2014","ME","33653","SERFF","6","2014-01-21 11:24:32","33653","ME","MCHO Statewide Network","MEN001","http://www.maineoptions.org/Search-provider","13","SHOP (Small Group)","No"
+"2014","ME","47540","SERFF","1","2013-08-01 21:15:43","47540","ME","Ameritas PPO Dental Network","MEN001","www.standard.com","13","SHOP (Small Group)","Yes"
+"2014","ME","48396","SERFF","11","2014-06-23 15:22:56","48396","ME","Pathway X Enhanced","MEN001","https://www.anthem.com/health-insurance/provider-directory/searchcriteria?brand=abcbs","13","Individual","No"
+"2014","ME","48396","SERFF","11","2014-06-23 15:22:56","48396","ME","Dental Complete","MEN001","www.Anthem.com","13","SHOP (Small Group)","Yes"
+"2014","ME","48396","SERFF","11","2014-06-23 15:22:56","48396","ME","Pathway X Enhanced","MEN001","https://www.anthem.com/health-insurance/provider-directory/searchcriteria?brand=abcbs","13","SHOP (Small Group)","No"
+"2014","ME","48396","SERFF","11","2014-06-23 15:22:56","48396","ME","Dental Complete","MEN001","www.Anthem.com","13","Individual","Yes"
+"2014","ME","48396","SERFF","11","2014-06-23 15:22:56","48396","ME","Pathway X","MEN002","https://www.anthem.com/health-insurance/provider-directory/searchcriteria?brand=abcbs","14","Individual","No"
+"2014","ME","48396","SERFF","11","2014-06-23 15:22:56","48396","ME","Pathway X Enhanced (with dental)","MEN003","https://www.anthem.com/health-insurance/provider-directory/searchcriteria?brand=abcbs","15","Individual","No"
+"2014","ME","48396","SERFF","11","2014-06-23 15:22:56","48396","ME","Pathway X (with dental)","MEN004","https://www.anthem.com/health-insurance/provider-directory/searchcriteria?brand=abcbs","16","Individual","No"
+"2014","ME","50165","SERFF","3","2013-09-11 14:31:09","50165","ME","Delta Dental PPO","MEN001","http://www.nedelta.com/localdentistsearch","13","SHOP (Small Group)","Yes"
+"2014","ME","50165","SERFF","3","2013-09-11 14:31:09","50165","ME","Delta Dental PPO","MEN001","http://www.nedelta.com/localdentistsearch","13","Individual","Yes"
+"2014","ME","69227","SERFF","4","2013-09-16 08:58:26","69227","ME","DentalGuard Preferred","MEN001","https://www.guardiananytime.com/fpapp/FPWeb/dentalSearch.process","13","SHOP (Small Group)","Yes"
+"2014","MI","11083","SERFF","7","2013-10-17 08:32:07","11083","MI","EHB Basic Dental Plan (Low)","MIN001","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_MI&planType=DPPO&networkID=2","13","SHOP (Small Group)","Yes"
+"2014","MI","11083","SERFF","7","2013-10-17 08:32:07","11083","MI","EHB Enhanced Dental Plan (High)","MIN002","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_MI&planType=DPPO&networkID=2","14","SHOP (Small Group)","Yes"
+"2014","MI","11083","SERFF","7","2013-10-17 08:32:07","11083","MI","Family Basic Dental Plan (Low)","MIN003","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_MI&planType=DPPO&networkID=2","15","SHOP (Small Group)","Yes"
+"2014","MI","11083","SERFF","7","2013-10-17 08:32:07","11083","MI","Family Enhanced Dental Plan (High)","MIN004","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_MI&planType=DPPO&networkID=2","16","SHOP (Small Group)","Yes"
+"2014","MI","11103","SERFF","3","2013-09-11 14:31:09","11103","MI","First Commonwealth","MIN001","https://www.guardiananytime.com/fpapp/FPWeb/dentalSearch.process","13","SHOP (Small Group)","Yes"
+"2014","MI","15560","SERFF","8","2013-11-27 09:24:34","15560","MI","DNoA Preferred Network","MIN002","http://www.bcbsm.com/index/common/find-a-doctor.html","13","Individual","Yes"
+"2014","MI","15560","SERFF","8","2013-11-27 09:24:34","15560","MI","DNoA Preferred Network","MIN002","http://www.bcbsm.com/index/common/find-a-doctor.html","13","SHOP (Small Group)","Yes"
+"2014","MI","15560","SERFF","8","2013-11-27 09:24:34","15560","MI","TRUST","MIN001","http://www.bcbsm.com/index/common/find-a-doctor.html","13","Individual","No"
+"2014","MI","15560","SERFF","8","2013-11-27 09:24:34","15560","MI","TRUST","MIN001","http://www.bcbsm.com/index/common/find-a-doctor.html","13","SHOP (Small Group)","No"
+"2014","MI","20393","SERFF","7","2013-11-27 09:24:34","20393","MI","MHP Commercial Provider Network","MIN001","www.mclarenhealthplan.org","13","Individual","No"
+"2014","MI","20393","SERFF","7","2013-11-27 09:24:34","20393","MI","MHP Commercial Provider Network","MIN001","www.mclarenhealthplan.org","13","SHOP (Small Group)","No"
+"2014","MI","29241","SERFF","7","2014-03-18 09:48:59","29241","MI","PHIC PPO Network","MIN001","http://priorityhealth.prismisp.com/","13","SHOP (Small Group)","No"
+"2014","MI","29241","SERFF","7","2014-03-18 09:48:59","29241","MI","PHIC PPO Network","MIN001","http://priorityhealth.prismisp.com/","13","Individual","No"
+"2014","MI","29698","SERFF","9","2014-03-18 09:48:59","29698","MI","Priority Health HMO","MIN001","http://priorityhealth.prismisp.com/","13","Individual","No"
+"2014","MI","29698","SERFF","9","2014-03-18 09:48:59","29698","MI","Priority Health HMO","MIN001","http://priorityhealth.prismisp.com/","13","SHOP (Small Group)","No"
+"2014","MI","34930","SERFF","1","2013-08-01 21:15:43","34930","MI","Delta Dental","MIN001","http://www.deltadental.com/DentistSearch/DentistSearchController.ccl","13","Individual","Yes"
+"2014","MI","34930","SERFF","1","2013-08-01 21:15:43","34930","MI","Delta Dental","MIN001","http://www.deltadental.com/DentistSearch/DentistSearchController.ccl","13","SHOP (Small Group)","Yes"
+"2014","MI","35700","SERFF","6","2014-01-22 11:51:12","35700","MI","DenteMax","MIN001","http://www2.dentemax.com/","13","Individual","Yes"
+"2014","MI","35700","SERFF","6","2014-01-22 11:51:12","35700","MI","DenteMax","MIN001","http://www2.dentemax.com/","13","SHOP (Small Group)","Yes"
+"2014","MI","37651","SERFF","6","2013-11-27 09:24:34","37651","MI","HAP Network","MIN001","http://www.providerlookuponline.com/HAP/PO7/Gateway.aspx?clientprodcode=1HMcurrent","13","SHOP (Small Group)","No"
+"2014","MI","37651","SERFF","6","2013-11-27 09:24:34","37651","MI","HAP Network","MIN001","http://www.providerlookuponline.com/HAP/PO7/Gateway.aspx?clientprodcode=1HMcurrent","13","Individual","No"
+"2014","MI","38791","SERFF","3","2013-08-23 12:24:02","38791","MI","Ameritas PPO Dental Network","MIN001","www.ameritasgroup.com","13","SHOP (Small Group)","Yes"
+"2014","MI","40047","SERFF","3","2013-10-16 19:58:29","40047","MI","Molina Marketplace","MIN001","http://www.molinahealthcare.com/providersearch","13","Individual","No"
+"2014","MI","41183","SERFF","5","2013-08-26 12:29:34","41183","MI","Ameritas PPO Dental Network","MIN001","www.standard.com","13","SHOP (Small Group)","Yes"
+"2014","MI","41895","SERFF","10","2014-01-22 11:51:12","41895","MI","Consumers Mutual PPO Network","MIN001","http://www.consumersmutual.org/provider-directory","13","SHOP (Small Group)","No"
+"2014","MI","41895","SERFF","10","2014-01-22 11:51:12","41895","MI","Consumers Mutual PPO Network","MIN001","http://www.consumersmutual.org/provider-directory","13","Individual","No"
+"2014","MI","45002","SERFF","9","2013-10-15 10:04:03","45002","MI","Choice Plus","MIN002","http://www.providerlookuponline.com/uhc/po7/gateway.aspx?delsys=98","14","SHOP (Small Group)","No"
+"2014","MI","45002","SERFF","9","2013-10-15 10:04:03","45002","MI","Navigate","MIN003","http://www.providerlookuponline.com/uhc/po7/gateway.aspx?delsys=97","15","SHOP (Small Group)","No"
+"2014","MI","46275","SERFF","4","2013-09-16 08:58:26","46275","MI","Detroit HMOx","MIN001","http://pfp.humana.com/Pfp/PfpMain.aspx?cust=1059&pfpkey=813","13","Individual","No"
+"2014","MI","58594","SERFF","3","2014-01-22 11:51:12","58594","MI","Meridian Choice (Bronson)","MIN001","www.mhplan.com/meridianchoice/providerdirectory","13","Individual","No"
+"2014","MI","62294","SERFF","4","2014-01-22 11:51:12","62294","MI","Humana Dental PPO/Traditional Preferred","MIN001","https://www.humana.com/finder/search?customerID=1085&pfpkey=317","13","Individual","Yes"
+"2014","MI","66587","SERFF","3","2013-09-11 14:31:09","66587","MI","DentalGuard Preferred","MIN001","https://www.guardiananytime.com/fpapp/FPWeb/dentalSearch.process","13","SHOP (Small Group)","Yes"
+"2014","MI","67183","SERFF","5","2014-03-14 10:14:14","67183","MI","Total Health Care Network","MIN001","http://providersearch.thcmi.com","13","SHOP (Small Group)","No"
+"2014","MI","67183","SERFF","5","2014-03-14 10:14:14","67183","MI","Total Health Care Network","MIN001","http://providersearch.thcmi.com","13","Individual","No"
+"2014","MI","67577","SERFF","5","2013-11-27 09:24:34","67577","MI","AHL Statewide Network","MIN001","http://www.providerlookuponline.com/HAP/PO7/Gateway.aspx?clientprodcode=4PPcurrent","13","Individual","No"
+"2014","MI","67577","SERFF","5","2013-11-27 09:24:34","67577","MI","AHL Statewide Network","MIN001","http://www.providerlookuponline.com/HAP/PO7/Gateway.aspx?clientprodcode=4PPcurrent","13","SHOP (Small Group)","No"
+"2014","MI","74709","SERFF","2","2013-08-05 08:16:03","74709","MI","DenteMax","MIN001","http://lfg.go2dental.com/member/dental_search/searchprov.cgi?P=LFGDentalConnect&Network=L","13","SHOP (Small Group)","Yes"
+"2014","MI","75936","SERFF","1","2013-08-01 21:15:43","75936","MI","Renaissance Dental","MIN001","www.renaissancedental.com/Find-a-Dentist","13","SHOP (Small Group)","Yes"
+"2014","MI","86217","SERFF","3","2013-09-11 14:31:09","86217","MI","GDP DENTAL PROVIDER NETWORK","MIN001","www.goldendentalplans.com","13","SHOP (Small Group)","Yes"
+"2014","MI","86217","SERFF","3","2013-09-11 14:31:09","86217","MI","GDP DENTAL PROVIDER NETWORK","MIN001","www.goldendentalplans.com","13","Individual","Yes"
+"2014","MI","94523","SERFF","9","2014-01-22 11:51:12","94523","MI","Dentegra Dental PPO","MIN001","http://www.dentegra.com/find-a-dentist","13","Individual","Yes"
+"2014","MI","94523","SERFF","9","2014-01-22 11:51:12","94523","MI","Dentegra Dental PPO","MIN001","http://www.dentegra.com/find-a-dentist","13","SHOP (Small Group)","Yes"
+"2014","MI","98185","SERFF","8","2014-01-22 11:51:12","98185","MI","PCP Focus","MIN001","www.bcbsm.com/index/find-a-doctor.html","13","SHOP (Small Group)","No"
+"2014","MI","98185","SERFF","8","2014-01-22 11:51:12","98185","MI","PCP Focus","MIN001","www.bcbsm.com/index/find-a-doctor.html","13","Individual","No"
+"2014","MI","98185","SERFF","8","2014-01-22 11:51:12","98185","MI","Blue Care Network Commercial","MIN002","www.bcbsm.com/index/find-a-doctor.html","14","SHOP (Small Group)","No"
+"2014","MI","98185","SERFF","8","2014-01-22 11:51:12","98185","MI","Blue Care Network Commercial","MIN002","www.bcbsm.com/index/find-a-doctor.html","14","Individual","No"
+"2014","MI","98185","SERFF","8","2014-01-22 11:51:12","98185","MI","Partnered","MIN003","www.bcbsm.com/index/find-a-doctor.html","15","Individual","No"
+"2014","MT","23603","SERFF","8","2013-10-16 19:58:29","23603","MT","SmartHealth","MTN001","http://providerdirectory.pacificsource.com","13","Individual","No"
+"2014","MT","23603","SERFF","8","2013-10-16 19:58:29","23603","MT","SmartHealth","MTN001","http://providerdirectory.pacificsource.com","13","SHOP (Small Group)","No"
+"2014","MT","23603","SERFF","8","2013-10-16 19:58:29","23603","MT","PSN","MTN002","http://providerdirectory.pacificsource.com","14","Individual","No"
+"2014","MT","23603","SERFF","8","2013-10-16 19:58:29","23603","MT","PSN","MTN002","www.pacificsource.com","14","SHOP (Small Group)","No"
+"2014","MT","23603","SERFF","8","2013-10-16 19:58:29","23603","MT","Dental Indemnity","MTN003","http://providerdirectory.pacificsource.com","15","SHOP (Small Group)","Yes"
+"2014","MT","23603","SERFF","8","2013-10-16 19:58:29","23603","MT","Dental Indemnity","MTN003","http://providerdirectory.pacificsource.com","15","Individual","Yes"
+"2014","MT","30751","SERFF","6","2014-01-21 11:24:32","30751","MT","PPO Network","MTN001","https://www.bcbsmt.com/Pages/NPFprovsearch.aspx","13","Individual","No"
+"2014","MT","30751","SERFF","6","2014-01-21 11:24:32","30751","MT","PPO Network","MTN001","https://www.bcbsmt.com/Pages/NPFprovsearch.aspx","13","SHOP (Small Group)","No"
+"2014","MT","30751","SERFF","6","2014-01-21 11:24:32","30751","MT","Blue Cross and Blue Shield of Montana Dental Network","MTN002","https://www.bcbsmt.com/Pages/NPFprovsearch.aspx","14","Individual","Yes"
+"2014","MT","30751","SERFF","6","2014-01-21 11:24:32","30751","MT","Blue Cross and Blue Shield of Montana Dental Network","MTN002","https://www.bcbsmt.com/Pages/NPFprovsearch.aspx","14","SHOP (Small Group)","Yes"
+"2014","MT","32225","SERFF","3","2013-08-26 12:29:34","32225","MT","Connected Care","MTN001","http://montanahealthcoop.coventryproviders.com","13","SHOP (Small Group)","No"
+"2014","MT","32225","SERFF","3","2013-08-26 12:29:34","32225","MT","Connected Care","MTN001","http://montanahealthcoop.coventryproviders.com","13","Individual","No"
+"2014","MT","32225","SERFF","3","2013-08-26 12:29:34","32225","MT","Access Care","MTN002","http://montanahealthcoop.coventryproviders.com","14","Individual","No"
+"2014","MT","32225","SERFF","3","2013-08-26 12:29:34","32225","MT","Access Care","MTN002","http://montanahealthcoop.coventryproviders.com","14","SHOP (Small Group)","No"
+"2014","MT","46668","SERFF","1","2013-08-01 21:15:43","46668","MT","Renaissance Dental","MTN001","www.renaissancedental.com/Find-a-Dentist","13","SHOP (Small Group)","Yes"
+"2014","MT","62818","SERFF","2","2013-09-11 14:31:09","62818","MT","DentalGuard Preferred","MTN001","https://www.guardiananytime.com/fpapp/FPWeb/dentalSearch.process","13","SHOP (Small Group)","Yes"
+"2014","MT","71788","SERFF","5","2014-01-21 11:24:32","71788","MT","Delta Dental PPO","MTN001","http://www.deltadentalins.com/find-a-dentist/","13","Individual","Yes"
+"2014","MT","71788","SERFF","5","2014-01-21 11:24:32","71788","MT","Delta Dental PPO","MTN001","http://www.deltadentalins.com/find-a-dentist/","13","SHOP (Small Group)","Yes"
+"2014","MT","92216","SERFF","1","2013-08-01 21:15:43","92216","MT","Ameritas PPO Dental Network","MTN001","www.standard.com","13","SHOP (Small Group)","Yes"
+"2014","MT","93895","SERFF","5","2014-01-22 11:51:12","93895","MT","DenteMax","MTN001","http://www2.dentemax.com/","13","Individual","Yes"
+"2014","MT","93895","SERFF","5","2014-01-22 11:51:12","93895","MT","DenteMax","MTN001","http://www2.dentemax.com/","13","SHOP (Small Group)","Yes"
+"2014","NE","15438","SERFF","5","2013-10-15 10:04:03","15438","NE","Carelink Powered by Methodist Health Partners","NEN001","http://ne.coventryproviders.com","13","SHOP (Small Group)","No"
+"2014","NE","15438","SERFF","5","2013-10-15 10:04:03","15438","NE","Carelink Powered by Methodist Health Partners","NEN001","http://ne.coventryproviders.com","13","Individual","No"
+"2014","NE","15438","SERFF","5","2013-10-15 10:04:03","15438","NE","Carelink Powered by Alegent Creighton Health","NEN002","http://ne.coventryproviders.com","14","Individual","No"
+"2014","NE","15438","SERFF","5","2013-10-15 10:04:03","15438","NE","Carelink Powered by Alegent Creighton Health","NEN002","http://ne.coventryproviders.com","14","SHOP (Small Group)","No"
+"2014","NE","15438","SERFF","5","2013-10-15 10:04:03","15438","NE","Coventry Health Care of Nebraska","NEN003","http://ne.coventryproviders.com","15","Individual","No"
+"2014","NE","15438","SERFF","5","2013-10-15 10:04:03","15438","NE","Coventry Health Care of Nebraska - HMO","NEN004","http://ne.coventryproviders.com","16","SHOP (Small Group)","No"
+"2014","NE","15438","SERFF","5","2013-10-15 10:04:03","15438","NE","Carelink Powered by MIPPA","NEN004","http://ne.coventryproviders.com","16","Individual","No"
+"2014","NE","29678","SERFF","4","2013-10-15 10:04:03","29678","NE","NEtwork BLUE","NEN001","http://nebraskablue.prismisp.com","13","Individual","No"
+"2014","NE","29678","SERFF","4","2013-10-15 10:04:03","29678","NE","NEtwork BLUE","NEN001","http://nebraskablue.prismisp.com","13","SHOP (Small Group)","No"
+"2014","NE","29678","SERFF","4","2013-10-15 10:04:03","29678","NE","Select BlueChoice Three-Tier","NEN002","http://nebraskablue.prismisp.com","14","Individual","No"
+"2014","NE","36768","SERFF","1","2013-08-01 21:15:43","36768","NE","Ameritas PPO Dental Network","NEN001","www.ameritasgroup.com","13","SHOP (Small Group)","Yes"
+"2014","NE","43198","SERFF","3","2013-11-27 09:24:34","43198","NE","CoOportunity Premier","NEN001","www.cooportunityhealth.com/providersearch","13","SHOP (Small Group)","No"
+"2014","NE","43198","SERFF","3","2013-11-27 09:24:34","43198","NE","CoOportunity Premier","NEN001","www.cooportunityhealth.com/providersearch","13","Individual","No"
+"2014","NE","45550","SERFF","5","2014-01-21 11:24:32","45550","NE","Delta Dental PPO and Delta Dental Premier","NEN001","www.deltadentalne.org/findADentist","13","SHOP (Small Group)","Yes"
+"2014","NE","45550","SERFF","5","2014-01-21 11:24:32","45550","NE","Delta Dental PPO and Delta Dental Premier","NEN001","www.deltadentalne.org/findADentist","13","Individual","Yes"
+"2014","NE","50022","SERFF","6","2014-01-21 11:24:32","50022","NE","CONNECTION Dental through PPO USA","NEN001","http://www.ppousa.com/patients/index.html","13","SHOP (Small Group)","Yes"
+"2014","NE","50022","SERFF","6","2014-01-21 11:24:32","50022","NE","CONNECTION Dental through PPO USA","NEN001","http://www.ppousa.com/patients/index.html","13","Individual","Yes"
+"2014","NE","77931","SERFF","6","2014-01-24 09:49:15","77931","NE","Health Alliance Midwest Network","NEN001","https://www.healthalliance.org/Guests/ProviderSearch?DirectoryName=NEX","13","Individual","No"
+"2014","NE","77931","SERFF","6","2014-01-24 09:49:15","77931","NE","Health Alliance Midwest Network","NEN001","https://www.healthalliance.org/Guests/ProviderSearch?DirectoryName=NEX","13","SHOP (Small Group)","No"
+"2014","NE","90142","SERFF","1","2013-08-13 21:01:26","90142","NE","Lincoln Dental Connect","NEN001","http://lfg.go2dental.com/member/dental_search/searchprov.cgi?P=LFGDentalConnect&Network=L","13","SHOP (Small Group)","Yes"
+"2014","NE","95796","SERFF","1","2013-08-01 21:15:43","95796","NE","Ameritas PPO Dental Network","NEN001","www.standard.com","13","SHOP (Small Group)","Yes"
+"2014","NE","98048","SERFF","2","2013-09-11 14:31:09","98048","NE","DentalGuard Preferred","NEN001","https://www.guardiananytime.com/fpapp/FPWeb/dentalSearch.process","13","SHOP (Small Group)","Yes"
+"2014","NH","24847","SERFF","3","2013-09-16 08:58:26","24847","NH","DentalGuard Preferred","NHN001","https://www.guardiananytime.com/fpapp/FPWeb/dentalSearch.process","13","SHOP (Small Group)","Yes"
+"2014","NH","57601","SERFF","8","2014-03-20 11:33:30","57601","NH","Dental Complete","NHN001","www.Anthem.com","13","SHOP (Small Group)","Yes"
+"2014","NH","57601","SERFF","8","2014-03-20 11:33:30","57601","NH","Dental Complete","NHN001","www.Anthem.com","13","Individual","Yes"
+"2014","NH","87701","SERFF","3","2013-09-11 14:31:09","87701","NH","Delta Dental EPO","NHN001","http://www.nedelta.com/localdentistsearch","13","SHOP (Small Group)","Yes"
+"2014","NH","87701","SERFF","3","2013-09-11 14:31:09","87701","NH","Delta Dental EPO","NHN001","http://www.nedelta.com/localdentistsearch","13","Individual","Yes"
+"2014","NH","96751","SERFF","14","2014-07-28 14:39:22","96751","NH","Pathway X Enhanced","NHN001","https://www.anthem.com/health-insurance/provider-directory/searchcriteria?brand=abcbs","13","Individual","No"
+"2014","NH","96751","SERFF","14","2014-07-28 14:39:22","96751","NH","Pathway X","NHN001","https://www.anthem.com/health-insurance/provider-directory/searchcriteria?brand=abcbs","13","SHOP (Small Group)","No"
+"2014","NH","96751","SERFF","14","2014-07-28 14:39:22","96751","NH","Pathway X Enhanced (with dental)","NHN002","https://www.anthem.com/health-insurance/provider-directory/searchcriteria?brand=abcbs","14","Individual","No"
+"2014","NM","17911","SERFF","6","2013-11-27 09:24:34","17911","NM","Renaissance Dental","NMN001","www.renaissancedental.com/Find-a-Dentist","13","Individual","Yes"
+"2014","NM","17911","SERFF","6","2013-11-27 09:24:34","17911","NM","Delta Dental","NMN002","http://www.deltadental.com/DentistSearch/DentistSearchController.ccl","14","Individual","Yes"
+"2014","NM","19722","SERFF","4","2013-10-16 19:58:29","19722","NM","Molina New Mexico Exchange","NMN001","http://www.molinahealthcare.com/providersearch","13","Individual","No"
+"2014","NM","26075","SERFF","5","2014-01-21 11:24:32","26075","NM","DenteMax","NMN001","http://www2.dentemax.com/","13","Individual","Yes"
+"2014","NM","57173","SERFF","9","2014-01-21 11:24:32","57173","NM","Presbyterian Network Inc","NMN001","https://presbyterianproviderfinder.ipf.vitals.com/search","13","Individual","No"
+"2014","NM","75605","SERFF","9","2013-11-27 09:24:34","75605","NM","PPO","NMN001","https://public.hcsc.net/providerfinder/home.do?corpEntCd=NM1","13","Individual","No"
+"2014","NM","75605","SERFF","9","2013-11-27 09:24:34","75605","NM","BlueCare Dental PPO","NMN004","https://public.hcsc.net/providerfinder/home.do?corpEntCd=NM1","13","Individual","Yes"
+"2014","NM","75605","SERFF","9","2013-11-27 09:24:34","75605","NM","Community HMO","NMN002","https://public.hcsc.net/providerfinder/home.do?corpEntCd=NM1","14","Individual","No"
+"2014","NM","75605","SERFF","9","2013-11-27 09:24:34","75605","NM","Blue Advantage HMO","NMN003","https://public.hcsc.net/providerfinder/home.do?corpEntCd=NM1","15","Individual","No"
+"2014","NM","93091","SERFF","9","2014-03-18 09:48:59","93091","NM","UNM Connect","NMN001","http://mynmhc.org/Find_a_Doctor.aspx","13","Individual","No"
+"2014","NM","93091","SERFF","9","2014-03-18 09:48:59","93091","NM","My NMHC Network","NMN002","http://mynmhc.org/Find_a_Doctor.aspx","14","Individual","No"
+"2014","OH","20126","SERFF","6","2013-09-17 21:55:00","20126","OH","Kaiser Permanente HMO","OHN001","www.kp.org/ohio","13","SHOP (Small Group)","No"
+"2014","OH","20126","SERFF","6","2013-09-17 21:55:00","20126","OH","Kaiser Permanente HMO","OHN001","www.kp.org/ohio","13","Individual","No"
+"2014","OH","28162","SERFF","3","2013-08-30 11:49:14","28162","OH","AultCare PPO","OHN001","http://www.aultcare.com/myProviders","13","SHOP (Small Group)","No"
+"2014","OH","28162","SERFF","3","2013-08-30 11:49:14","28162","OH","AultCare PPO","OHN001","http://www.aultcare.com/myProviders","13","Individual","No"
+"2014","OH","28162","SERFF","3","2013-08-30 11:49:14","28162","OH","AultCare Value PPO","OHN002","http://www.aultcare.com/exchangeproviders","14","Individual","No"
+"2014","OH","29276","SERFF","8","2014-07-28 14:39:22","29276","OH","Pathway X Tiered Hospital","OHN001","https://www.anthem.com/health-insurance/provider-directory/searchcriteria?brand=abcbs","13","SHOP (Small Group)","No"
+"2014","OH","29276","SERFF","8","2014-07-28 14:39:22","29276","OH","Dental Prime","OHN001","www.Anthem.com","13","SHOP (Small Group)","Yes"
+"2014","OH","29276","SERFF","8","2014-07-28 14:39:22","29276","OH","Dental Prime","OHN001","www.Anthem.com","13","Individual","Yes"
+"2014","OH","29276","SERFF","8","2014-07-28 14:39:22","29276","OH","Pathway X Tiered Hospital","OHN001","https://www.anthem.com/health-insurance/provider-directory/searchcriteria?brand=abcbs","13","Individual","No"
+"2014","OH","29276","SERFF","8","2014-07-28 14:39:22","29276","OH","Pathway X Tiered Hospital (with dental)","OHN002","https://www.anthem.com/health-insurance/provider-directory/searchcriteria?brand=abcbs","14","Individual","No"
+"2014","OH","30042","SERFF","1","2013-08-01 21:15:43","30042","OH","Preferred Network","OHN001","http://www.superiordental.com/findDentist.asp","13","SHOP (Small Group)","Yes"
+"2014","OH","34968","SERFF","5","2013-10-17 08:32:07","34968","OH","EHB Basic Dental Plan (Low)","OHN001","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_OH&planType=DPPO&networkID=2","13","SHOP (Small Group)","Yes"
+"2014","OH","34968","SERFF","5","2013-10-17 08:32:07","34968","OH","EHB Enhanced Dental Plan (High)","OHN002","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_OH&planType=DPPO&networkID=2","14","SHOP (Small Group)","Yes"
+"2014","OH","34968","SERFF","5","2013-10-17 08:32:07","34968","OH","Family Basic Dental Plan (Low)","OHN003","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_OH&planType=DPPO&networkID=2","15","SHOP (Small Group)","Yes"
+"2014","OH","34968","SERFF","5","2013-10-17 08:32:07","34968","OH","Family Enhanced Dental Plan (High)","OHN004","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_OH&planType=DPPO&networkID=2","16","SHOP (Small Group)","Yes"
+"2014","OH","41047","SERFF","2","2013-09-02 14:52:56","41047","OH","Buckeye Community Health Plan","OHN001","http://ambetter.bchpohio.com/findadoc","13","Individual","No"
+"2014","OH","47509","SERFF","9","2014-01-21 11:24:32","47509","OH","DenteMax","OHN001","http://www2.dentemax.com/","13","SHOP (Small Group)","Yes"
+"2014","OH","47509","SERFF","9","2014-01-21 11:24:32","47509","OH","DenteMax","OHN001","http://www2.dentemax.com/","13","Individual","Yes"
+"2014","OH","48333","SERFF","1","2013-08-01 21:15:43","48333","OH","Ameritas PPO Dental Network","OHN001","www.standard.com","13","SHOP (Small Group)","Yes"
+"2014","OH","52664","SERFF","8","2014-01-21 11:24:32","52664","OH","SCSelect","OHN001","www.mysummacare.com/providernetwork/scselect","13","Individual","No"
+"2014","OH","52664","SERFF","8","2014-01-21 11:24:32","52664","OH","SCSelect","OHN001","www.mysummacare.com/providernetwork/scselect","13","SHOP (Small Group)","No"
+"2014","OH","52664","SERFF","8","2014-01-21 11:24:32","52664","OH","SCPremier","OHN002","www.mysummacare.com/providernetwork/scpremier","14","SHOP (Small Group)","No"
+"2014","OH","52664","SERFF","8","2014-01-21 11:24:32","52664","OH","Mercy Choice","OHN003","www.mysummacare.com/providernetwork/mercychoice","15","Individual","No"
+"2014","OH","52664","SERFF","8","2014-01-21 11:24:32","52664","OH","Mercy Choice","OHN003","www.mysummacare.com/providernetwork/mercychoice","15","SHOP (Small Group)","No"
+"2014","OH","58255","SERFF","1","2013-08-29 13:08:32","58255","OH","Advantage Plus","OHN001","https://secure.ucci.com/tp2fad/","13","SHOP (Small Group)","Yes"
+"2014","OH","59401","SERFF","3","2013-10-15 10:04:03","59401","OH","DentalGuard Preferred","OHN001","https://www.guardiananytime.com/fpapp/FPWeb/dentalSearch.process","13","SHOP (Small Group)","Yes"
+"2014","OH","64353","SERFF","5","2013-10-15 10:04:03","64353","OH","Molina Exchange Network","OHN001","http://www.molinahealthcare.com/providersearch","13","Individual","No"
+"2014","OH","66083","SERFF","4","2014-01-22 11:51:12","66083","OH","Cincinnati Northern KY HMOx","OHN001","http://pfp.humana.com/Pfp/PfpMain.aspx?cust=1059&pfpkey=750","13","Individual","No"
+"2014","OH","66083","SERFF","4","2014-01-22 11:51:12","66083","OH","Dayton HMOx","OHN002","http://pfp.humana.com/Pfp/PfpMain.aspx?cust=1059&pfpkey=814","14","Individual","No"
+"2014","OH","68158","SERFF","2","2013-09-05 10:37:54","68158","OH","DentalGuard Preferred","OHN001","https://www.guardiananytime.com/fpapp/FPWeb/dentalSearch.process","13","SHOP (Small Group)","Yes"
+"2014","OH","74313","SERFF","4","2013-09-23 09:00:13","74313","OH","Paramount","OHN001","https://paramount.abovehealth.com/Router.jsp?component=Main&source=Logon&action=ProviderDirectory","13","Individual","No"
+"2014","OH","77552","SERFF","6","2013-10-15 10:04:03","77552","OH","Network 170","OHN002","https://memberportal.caresource.com/App/OH/FindADoctor/Just4Me","14","Individual","No"
+"2014","OH","77552","SERFF","6","2013-10-15 10:04:03","77552","OH","Network 180","OHN003","https://memberportal.caresource.com/App/OH/FindADoctor/Just4Me","15","Individual","No"
+"2014","OH","77552","SERFF","6","2013-10-15 10:04:03","77552","OH","Network 190","OHN004","https://memberportal.caresource.com/App/OH/FindADoctor/Just4Me","16","Individual","No"
+"2014","OH","77552","SERFF","6","2013-10-15 10:04:03","77552","OH","Network 200","OHN005","https://memberportal.caresource.com/App/OH/FindADoctor/Just4Me","17","Individual","No"
+"2014","OH","92036","SERFF","6","2014-06-23 15:22:56","92036","OH","HealthSpan Select","OHN001","www.HealthspanNetwork.com","13","SHOP (Small Group)","No"
+"2014","OH","92036","SERFF","6","2014-06-23 15:22:56","92036","OH","HealthSpan Select","OHN001","www.HealthspanNetwork.com","13","Individual","No"
+"2014","OH","97596","SERFF","5","2014-01-21 11:24:32","97596","OH","Humana Dental PPO/Traditional Preferred","OHN001","https://www.humana.com/finder/search?customerID=1085&pfpkey=317","13","Individual","Yes"
+"2014","OH","98894","SERFF","2","2013-09-05 10:37:54","98894","OH","HealthAmerica One PPO","OHN001","http://oh.coventryproviders.com","13","Individual","No"
+"2014","OH","99734","SERFF","4","2014-03-18 09:48:59","99734","OH","DSP PPO Network","OHN001","Fad.dentalcareplus.com","13","SHOP (Small Group)","Yes"
+"2014","OH","99734","SERFF","4","2014-03-18 09:48:59","99734","OH","DCP HMO Network","OHN002","Fad.dentalcareplus.com","14","SHOP (Small Group)","Yes"
+"2014","OH","99734","SERFF","4","2014-03-18 09:48:59","99734","OH","PPO On-Exchange Network","OHN003","Hixfad.dentalcareplus.com","15","SHOP (Small Group)","Yes"
+"2014","OH","99734","SERFF","4","2014-03-18 09:48:59","99734","OH","PPO On-Exchange Network","OHN003","Hixfad.dentalcareplus.com","15","Individual","Yes"
+"2014","OH","99969","SERFF","7","2014-03-18 09:48:59","99969","OH","SuperMed Network","OHN001","https://providersearch.medmutual.com/default.aspx?product=SM%2b","13","SHOP (Small Group)","No"
+"2014","OH","99969","SERFF","7","2014-03-18 09:48:59","99969","OH","SuperMed Network","OHN001","https://providersearch.medmutual.com/default.aspx?product=SM%2b","13","Individual","No"
+"2014","OH","99969","SERFF","7","2014-03-18 09:48:59","99969","OH","Dentemax","OHN001","http://www2.dentemax.com/Members/FindADentist.aspx","13","SHOP (Small Group)","Yes"
+"2014","SD","13380","SERFF","1","2013-08-01 21:15:43","13380","SD","Ameritas PPO Dental Network","SDN001","www.ameritasgroup.com","13","SHOP (Small Group)","Yes"
+"2014","SD","25868","SERFF","4","2014-01-24 09:49:15","25868","SD","Delta Dental Premier","SDN001","http://www.deltadental.com/DentistSearch/DentistSearchController.ccl?ViewProduct=B01","13","Individual","Yes"
+"2014","SD","25868","SERFF","4","2014-01-24 09:49:15","25868","SD","Delta Dental Premier","SDN001","http://www.deltadental.com/DentistSearch/DentistSearchController.ccl?ViewProduct=B01","13","SHOP (Small Group)","Yes"
+"2014","SD","31195","SERFF","2","2013-09-19 10:34:04","31195","SD","Sanford Health Plan South Dakota Network","SDN001","https://www.viiad.com/shp/provider_search_main.asp","13","SHOP (Small Group)","No"
+"2014","VA","40308","SERFF","10","2014-07-28 14:39:22","40308","VA","Regional Preferred Participating Network","VAN002","https://member.carefirst.com/wps/portal/Member/public/findaprovider","13","SHOP (Small Group)","No"
+"2014","VA","40308","SERFF","10","2014-07-28 14:39:22","40308","VA","Regional Preferred Participating Network","VAN002","https://member.carefirst.com/wps/portal/Member/public/findaprovider","13","SHOP (Small Group)","Yes"
+"2014","VA","40308","SERFF","10","2014-07-28 14:39:22","40308","VA","Regional Preferred Participating Network","VAN002","https://member.carefirst.com/wps/portal/Member/public/findaprovider","13","Individual","Yes"
+"2014","VA","42808","SERFF","3","2013-11-27 09:24:34","42808","VA","DentalGuard Preferred","VAN001","https://www.guardiananytime.com/fpapp/FPWeb/dentalSearch.process","13","SHOP (Small Group)","Yes"
+"2014","VA","44721","SERFF","1","2013-08-01 21:15:43","44721","VA","Lincoln Dental Connect","VAN001","http://lfg.go2dental.com/member/dental_search/searchprov.cgi?P=LFGDentalConnect&Network=L","13","SHOP (Small Group)","Yes"
+"2014","VA","54965","SERFF","4","2013-09-05 10:37:54","54965","VA","Dominion Dental DHMO","VAN001","https://www.dominiondental.com/find-a-dentist","13","Individual","Yes"
+"2014","VA","54965","SERFF","4","2013-09-05 10:37:54","54965","VA","Dominion Dental DHMO","VAN001","https://www.dominiondental.com/find-a-dentist","13","SHOP (Small Group)","Yes"
+"2014","VA","54965","SERFF","4","2013-09-05 10:37:54","54965","VA","Dominion Dental PPO","VAN002","https://www.dominiondental.com/find-a-dentist","14","SHOP (Small Group)","Yes"
+"2014","VA","54965","SERFF","4","2013-09-05 10:37:54","54965","VA","Dominion Dental PPO","VAN002","https://www.dominiondental.com/find-a-dentist","14","Individual","Yes"
+"2014","VA","72006","SERFF","7","2013-11-27 09:24:34","72006","VA","EHB Basic Dental Plan (Low)","VAN001","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_VA&planType=DPPO&networkID=2","13","SHOP (Small Group)","Yes"
+"2014","VA","72006","SERFF","7","2013-11-27 09:24:34","72006","VA","EHB Enhanced Dental Plan (High)","VAN002","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_VA&planType=DPPO&networkID=2","14","SHOP (Small Group)","Yes"
+"2014","VA","72006","SERFF","7","2013-11-27 09:24:34","72006","VA","Family Basic Dental Plan (Low)","VAN003","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_VA&planType=DPPO&networkID=2","15","SHOP (Small Group)","Yes"
+"2014","VA","72006","SERFF","7","2013-11-27 09:24:34","72006","VA","Family Enhanced Dental Plan (High)","VAN004","https://metlocator.metlife.com/metlocator/execute/Search?searchType=findDentistHCR_VA&planType=DPPO&networkID=2","16","SHOP (Small Group)","Yes"
+"2014","VA","88380","SERFF","7","2014-03-17 13:54:37","88380","VA","Pathway X Tiered Hospital  (On)","VAN001"," https://www.anthem.com/health-insurance/provider-directory/searchcriteria?brand=abcbs","13","Individual","No"
+"2014","VA","88380","SERFF","7","2014-03-17 13:54:37","88380","VA","Pathway X Tiered Hospital  (On)","VAN001"," https://www.anthem.com/health-insurance/provider-directory/searchcriteria?brand=abcbs","13","SHOP (Small Group)","No"
+"2014","VA","88380","SERFF","7","2014-03-17 13:54:37","88380","VA","Pathway X Tiered Hospital  (with Dental)","VAN002"," https://www.anthem.com/health-insurance/provider-directory/searchcriteria?brand=abcbs","14","Individual","No"
+"2014","VA","95185","SERFF","8","2014-01-17 15:54:39","95185","VA","Kaiser Foundation Health Plan of Mid Atlantic States Incorporated Signature","VAN001","http://www.geoaccess.com/Kaiser/po/KaiserIntro.asp?Exchange=true","13","Individual","No"
+"2014","VA","95185","SERFF","8","2014-01-17 15:54:39","95185","VA","Kaiser Foundation Health Plan of Mid Atlantic States Incorporated Signature","VAN001","http://www.geoaccess.com/Kaiser/po/KaiserIntro.asp?Exchange=true","13","SHOP (Small Group)","No"
+"2014","VA","97762","SERFF","4","2014-01-22 11:51:12","97762","VA","Dentegra Dental PPO","VAN001","http://www.dentegra.com/find-a-dentist","13","Individual","Yes"
+"2014","VA","97762","SERFF","4","2014-01-22 11:51:12","97762","VA","Dentegra Dental PPO","VAN001","http://www.dentegra.com/find-a-dentist","13","SHOP (Small Group)","Yes"
+"2014","VA","97927","SERFF","3","2013-11-27 09:24:34","97927","VA","DentaQuest Virginia EPO Inc.","VAN001","www.dentaquest.com","13","SHOP (Small Group)","Yes"
+"2014","VA","97927","SERFF","3","2013-11-27 09:24:34","97927","VA","DentaQuest Virginia EPO Inc.","VAN001","www.dentaquest.com","13","Individual","Yes"
+"2014","VA","99663","SERFF","5","2013-11-27 09:24:34","99663","VA","Carelink Bon Secours Richmond","VAN001","http://va.coventryproviders.com","13","Individual","No"
+"2014","VA","99663","SERFF","5","2013-11-27 09:24:34","99663","VA","Carelink Southside","VAN002","http://va.coventryproviders.com","14","Individual","No"
+"2014","VA","99663","SERFF","5","2013-11-27 09:24:34","99663","VA","CoventryOne Virginia POS","VAN003","http://va.coventryproviders.com","15","Individual","No"
+"2014","WV","31274","SERFF","9","2014-03-14 10:14:14","31274","WV","SuperBlue Plus PPO","WVN001","www.HighmarkBCBSWV.com","13","SHOP (Small Group)","No"
+"2014","WV","31274","SERFF","9","2014-03-14 10:14:14","31274","WV","SuperBlue Plus PPO","WVN001","www.HighmarkBCBSWV.com","13","Individual","No"
+"2014","WV","34848","SERFF","4","2013-09-11 14:31:09","34848","WV","Advantage Plus","WVN001","https://secure.ucci.com/tp2fad/?network=074","13","SHOP (Small Group)","Yes"
+"2014","WV","52120","SERFF","1","2013-08-01 21:15:43","52120","WV","Lincoln Dental Connect","WVN001","http://lfg.go2dental.com/member/dental_search/searchprov.cgi?P=LFGDentalConnect&Network=L","13","SHOP (Small Group)","Yes"
+"2014","WV","53843","SERFF","5","2014-01-21 11:24:32","53843","WV","Dentegra Dental PPO","WVN001","http://www.dentegra.com/find-a-dentist","13","SHOP (Small Group)","Yes"
+"2014","WV","53843","SERFF","5","2014-01-21 11:24:32","53843","WV","Dentegra Dental PPO","WVN001","http://www.dentegra.com/find-a-dentist","13","Individual","Yes"
+"2014","WV","76526","SERFF","8","2014-01-21 11:24:32","76526","WV","Delta Dental PPO","WVN001","http://www.deltadentalins.com/find-a-dentist/","13","Individual","Yes"
+"2014","WV","76526","SERFF","8","2014-01-21 11:24:32","76526","WV","Delta Dental PPO","WVN001","http://www.deltadentalins.com/find-a-dentist/","13","SHOP (Small Group)","Yes"
+"2014","WV","96480","SERFF","5","2013-09-11 14:31:09","96480","WV","DentalGuard Preferred","WVN001","https://www.guardiananytime.com/fpapp/FPWeb/dentalSearch.process","13","SHOP (Small Group)","Yes"
